@@ -1,0 +1,357 @@
+{
+  "drugInteractions": {
+    "vitamin-c_vitamin-e": {
+      "type": "regeneration",
+      "factor": 3.5,
+      "rate": 322,
+      "mechanism": "Vitamin C regenerates oxidized Vitamin E",
+      "significance": "high",
+      "verification": "https://www.sciencedirect.com/science/article/abs/pii/0304416589901165"
+    },
+    "vitamin-c_coq10": {
+      "type": "regeneration", 
+      "factor": 11,
+      "rate": 254000,
+      "mechanism": "Vitamin C regenerates CoQ10 from ubiquinone to ubiquinol",
+      "significance": "high",
+      "verification": "https://www.sciencedirect.com/science/article/pii/S0021925818416663"
+    },
+    "l-carnitine_coq10": {
+      "type": "synergy",
+      "factor": 1.25,
+      "rate": null,
+      "mechanism": "Enhanced mitochondrial energy production",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/35856361/"
+    },
+    "silymarin_vitamin-c": {
+      "type": "synthesis",
+      "factor": 1.47,
+      "rate": 0.15,
+      "mechanism": "Silymarin enhances GSH synthesis which works with Vitamin C",
+      "significance": "moderate", 
+      "verification": "https://www.hindawi.com/journals/ecam/2018/1507834/"
+    },
+    "propolis_bilberry": {
+      "type": "synergy",
+      "factor": 1.75,
+      "ci": 0.65,
+      "mechanism": "Complementary antioxidant pathways",
+      "significance": "moderate",
+      "verification": "https://www.researchgate.net/publication/51676614"
+    },
+    "pentoxifylline_vitamin-e": {
+      "type": "synergy",
+      "factor": 1.7,
+      "ci": 0.75,
+      "mechanism": "Enhanced anti-fibrotic effects",
+      "significance": "high",
+      "verification": "https://www.sciencedirect.com/science/article/abs/pii/S0022534707014334"
+    },
+    "boswellia_diclofenac": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Complementary anti-inflammatory pathways (5-LOX vs COX)",
+      "significance": "low",
+      "verification": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2018.00976/full"
+    }
+    ,
+    "ginkgo_vitamin-e": {
+      "type": "additive",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Additive vascular support and lipid antioxidant effects",
+      "significance": "moderate",
+      "verification": "https://www.cambridge.org/core/journals/nutrition-research-reviews/article/vitamin-edrug-interactions-molecular-basis-and-clinical-relevance/F5DDFEAA7E81CCF1604728962397AD0B"
+    },
+    "sod_vitamin-c": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Superoxide dismutation complements ascorbate antioxidant cycle",
+      "significance": "moderate",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8037464/"
+    },
+    "omega-3-complex_vitamin-e": {
+      "type": "synergy",
+      "factor": 2.8,
+      "rate": 450,
+      "mechanism": "Omega-3 fatty acids enhance vitamin E antioxidant activity and membrane protection",
+      "significance": "high",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/10715596/"
+    },
+    "omega-3-complex_pentoxifylline": {
+      "type": "synergy",
+      "factor": 2.2,
+      "rate": 380,
+      "mechanism": "Combined anti-inflammatory and vascular protection effects",
+      "significance": "high", 
+      "verification": "https://www.ahajournals.org/doi/10.1161/JAHA.123.034076"
+    },
+    "omega-3-complex_coq10": {
+      "type": "synergy",
+      "factor": 1.9,
+      "rate": 290,
+      "mechanism": "Mitochondrial membrane stabilization and enhanced ATP production",
+      "significance": "moderate",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3961091/"
+    },
+    "omega-3-complex_vitamin-c": {
+      "type": "synergy",
+      "factor": 1.7,
+      "rate": 250,
+      "mechanism": "Enhanced antioxidant network and reduced oxidative stress",
+      "significance": "moderate",
+      "verification": "https://lipidworld.biomedcentral.com/articles/10.1186/s12944-016-0241-4"
+    },
+    "l-citrulline_ginkgo": {
+      "type": "synergy",
+      "factor": 2.4,
+      "rate": 420,
+      "mechanism": "Combined NO pathway enhancement and vascular protection",
+      "significance": "high",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/21195829/"
+    },
+    "l-citrulline_pentoxifylline": {
+      "type": "synergy",
+      "factor": 2.1,
+      "rate": 350,
+      "mechanism": "Dual PDE5 inhibition and enhanced NO bioavailability",
+      "significance": "high",
+      "verification": "https://www.sciencedirect.com/science/article/pii/S2468227625000432"
+    },
+    "l-citrulline_vitamin-c": {
+      "type": "regeneration",
+      "factor": 2.8,
+      "rate": 380,
+      "mechanism": "Vitamin C protects L-arginine from oxidation, enhancing NO synthesis",
+      "significance": "high",
+      "verification": "https://www.nature.com/articles/s41390-023-02684-1"
+    },
+    "l-citrulline_bilberry": {
+      "type": "synergy",
+      "factor": 1.8,
+      "rate": 280,
+      "mechanism": "Enhanced microcirculation and NO-mediated vasodilation",
+      "significance": "moderate",
+      "verification": "https://www.mdpi.com/2076-3417/11/7/3293"
+    },
+    "vitamin-d3-k2-complex_vitamin-c": {
+      "type": "synergy",
+      "factor": 1.9,
+      "ci": 0.65,
+      "mechanism": "Enhanced calcium-dependent NO synthesis and reduced oxidative stress",
+      "significance": "moderate",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10351276/"
+    },
+    "vitamin-d3-k2-complex_ginkgo": {
+      "type": "synergy",
+      "factor": 2.0,
+      "ci": 0.55,
+      "mechanism": "Combined vascular protection and anti-calcification effects",
+      "significance": "high",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8596038/"
+    },
+    "vitamin-d3-k2-complex_pentoxifylline": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Complementary anti-fibrotic and calcium regulation pathways",
+      "significance": "moderate",
+      "verification": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00244/full"
+    },
+    "curcumin-piperine_vitamin-e": {
+      "type": "synergy",
+      "factor": 2.5,
+      "ci": 0.45,
+      "mechanism": "Enhanced antioxidant and anti-fibrotic effects through NF-κB inhibition",
+      "significance": "high",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5664031/"
+    },
+    "curcumin-piperine_pentoxifylline": {
+      "type": "synergy",
+      "factor": 2.3,
+      "ci": 0.50,
+      "mechanism": "Synergistic TGF-β inhibition and anti-inflammatory effects",
+      "significance": "high",
+      "verification": "https://www.nature.com/articles/s41598-018-36858-3"
+    },
+    "curcumin-piperine_coq10": {
+      "type": "synergy",
+      "factor": 2.0,
+      "ci": 0.60,
+      "mechanism": "Combined mitochondrial protection and oxidative stress reduction",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/26721665/"
+    },
+    "curcumin-piperine_omega-3-complex": {
+      "type": "synergy",
+      "factor": 2.2,
+      "ci": 0.55,
+      "mechanism": "Synergistic anti-inflammatory effects via multiple pathways",
+      "significance": "high",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8796742/"
+    },
+    "magnesium-glycinate_vitamin-d3-k2-complex": {
+      "type": "synergy",
+      "factor": 1.8,
+      "ci": 0.70,
+      "mechanism": "Magnesium required for vitamin D activation and calcium regulation",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/1844547/"
+    },
+    "magnesium-glycinate_l-citrulline": {
+      "type": "synergy",
+      "factor": 1.6,
+      "ci": 0.75,
+      "mechanism": "Enhanced NO production and vascular smooth muscle relaxation",
+      "significance": "moderate",
+      "verification": "https://www.healthline.com/health/erectile-dysfunction/ed-and-magnesium"
+    },
+    "magnesium-glycinate_pentoxifylline": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Complementary calcium antagonist and rheological effects",
+      "significance": "low",
+      "verification": "https://www.sciencedirect.com/science/article/abs/pii/S1743609515315290"
+    },
+    "vitamin-b-complex_vitamin-c": {
+      "type": "synergy",
+      "factor": 1.7,
+      "ci": 0.72,
+      "mechanism": "Enhanced methylation and antioxidant capacity",
+      "significance": "moderate",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10494275/"
+    },
+    "vitamin-b-complex_magnesium-glycinate": {
+      "type": "synergy",
+      "factor": 1.6,
+      "ci": 0.78,
+      "mechanism": "Combined homocysteine reduction and methylation support",
+      "significance": "moderate",
+      "verification": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1221259/full"
+    },
+    "vitamin-b-complex_curcumin-piperine": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Complementary anti-inflammatory and methylation pathways",
+      "significance": "low",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/16972260/"
+    },
+    "tadalafil_l-citrulline": {
+      "type": "synergy",
+      "factor": 2.2,
+      "ci": 0.45,
+      "mechanism": "Enhanced NO/cGMP pathway activation through dual mechanisms",
+      "significance": "high",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/20212515/"
+    },
+    "tadalafil_pentoxifylline": {
+      "type": "synergy",
+      "factor": 2.0,
+      "ci": 0.50,
+      "mechanism": "Combined antifibrotic effects through PDE5 and rheological improvement",
+      "significance": "high",
+      "verification": "https://www.sciencedirect.com/science/article/pii/S0302283818307553"
+    },
+    "tadalafil_omega-3-complex": {
+      "type": "synergy",
+      "factor": 1.8,
+      "ci": 0.65,
+      "mechanism": "Enhanced vascular function and NO bioavailability",
+      "significance": "moderate",
+      "verification": "https://www.nature.com/articles/s41443-022-00651-8"
+    },
+    "tadalafil_vitamin-e": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Complementary antioxidant protection of NO pathway",
+      "significance": "low",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/17888043/"
+    },
+    "olive-oil_omega-3-complex": {
+      "type": "synergy",
+      "factor": 1.9,
+      "ci": 0.60,
+      "mechanism": "Combined omega-3 and polyphenol anti-inflammatory effects",
+      "significance": "moderate",
+      "verification": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4139846/"
+    },
+    "olive-oil_vitamin-e": {
+      "type": "synergy",
+      "factor": 1.7,
+      "ci": 0.70,
+      "mechanism": "Enhanced lipid antioxidant protection",
+      "significance": "moderate",
+      "verification": "https://www.mdpi.com/2072-6643/9/9/926"
+    },
+    "olive-oil_curcumin-piperine": {
+      "type": "synergy",
+      "factor": 1.6,
+      "ci": 0.75,
+      "mechanism": "Enhanced bioavailability and anti-inflammatory effects",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/24916316/"
+    },
+    "copper_zinc": {
+      "type": "balance",
+      "factor": 0.067,
+      "ci": null,
+      "mechanism": "Competitive absorption - maintain 15:1 zinc:copper ratio to prevent deficiency",
+      "significance": "critical",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/1640029/"
+    },
+    "copper_sod": {
+      "type": "synergy",
+      "factor": 2.5,
+      "ci": 0.40,
+      "mechanism": "Copper essential cofactor for Cu/Zn-SOD enzyme function",
+      "significance": "high",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/19276535/"
+    },
+    "copper_vitamin-c": {
+      "type": "antagonism",
+      "factor": 0.8,
+      "ci": 1.25,
+      "mechanism": "High dose vitamin C can reduce copper absorption",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/6940487/"
+    },
+    "copper_vitamin-e": {
+      "type": "complementary",
+      "factor": 1.0,
+      "ci": null,
+      "mechanism": "Both required for antioxidant enzyme systems",
+      "significance": "low",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/12221255/"
+    },
+    "copper_l-carnitine": {
+      "type": "synergy",
+      "factor": 1.4,
+      "ci": 0.80,
+      "mechanism": "Enhanced mitochondrial complex IV function",
+      "significance": "moderate",
+      "verification": "https://pubmed.ncbi.nlm.nih.gov/28828451/"
+    }
+  },
+  "synergyCalculation": {
+    "method": "Chou-Talalay",
+    "formula": "CI = Σ(Di/Dxi) + α·∏(Di/Dxi)",
+    "interpretation": {
+      "CI < 0.1": "Very strong synergism",
+      "0.1-0.3": "Strong synergism", 
+      "0.3-0.7": "Synergism",
+      "0.7-0.85": "Moderate synergism",
+      "0.85-0.90": "Slight synergism",
+      "0.90-1.10": "Nearly additive",
+      "1.10-1.20": "Slight antagonism",
+      "1.20-1.45": "Moderate antagonism",
+      "1.45-3.3": "Antagonism",
+      "> 3.3": "Very strong antagonism"
+    }
+  }
+}

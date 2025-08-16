@@ -1,0 +1,208 @@
+{
+  "stageProtocols": {
+    "acute": {
+      "name": "Acute Phase",
+      "timeframe": "<12 months",
+      "duration": "3-18",
+      "durationUnit": "months",
+      "successBase": 65,
+      "description": "Early inflammatory phase with active tissue response",
+      "characteristics": [
+        "Active inflammatory process",
+        "Tissue still responsive to intervention", 
+        "Lower fibrous tissue formation",
+        "Better response to antioxidants"
+      ],
+      "coreComponents": [
+        "vitamin-e",
+        "omega-3-complex",
+        "propolis",
+        "bilberry",
+        "silymarin",
+        "ginkgo",
+        "l-citrulline",
+        "curcumin-piperine",
+        "pentoxifylline",
+        "tadalafil"
+      ],
+      "optionalComponents": ["vitamin-c", "l-carnitine", "coq10", "magnesium-glycinate"],
+      "contraindicated": ["sod", "boswellia"],
+      "specialConsiderations": [
+        "Monitor for spontaneous improvement",
+        "Aggressive antioxidant therapy most effective",
+        "Consider waiting period vs early intervention"
+      ],
+      "verification": "https://www.wjgnet.com/2219-2816/full/v3/i1/31.htm"
+    },
+    "chronic": {
+      "name": "Chronic Phase", 
+      "timeframe": ">12 months",
+      "duration": "12-48",
+      "durationUnit": "months",
+      "successBase": 75,
+      "description": "Established fibrotic process requiring comprehensive intervention",
+      "characteristics": [
+        "Stable plaque formation",
+        "Reduced inflammatory activity",
+        "Established fibrous tissue",
+        "Requires multimodal approach"
+      ],
+      "coreComponents": [
+        "l-carnitine",
+        "coq10",
+        "omega-3-complex",
+        "propolis", 
+        "ginkgo",
+        "l-citrulline",
+        "curcumin-piperine",
+        "bilberry",
+        "silymarin",
+        "vitamin-e",
+        "vitamin-c",
+        "vitamin-d3-k2-complex",
+        "magnesium-glycinate",
+        "vitamin-b-complex",
+        "sod",
+        "boswellia", 
+        "pentoxifylline",
+        "diclofenac",
+        "tadalafil"
+      ],
+      "optionalComponents": ["olive-oil", "copper"],
+      "contraindicated": [],
+      "specialConsiderations": [
+        "Full 12-component protocol recommended",
+        "Consider ultrasound enhancement therapy",
+        "Long-term treatment commitment required",
+        "Injectable therapy mandatory: biweekly for 6 months, then monthly for 12 months"
+      ],
+      "verification": "https://jmedicalcasereports.biomedcentral.com/articles/10.1186/s13256-022-03614-1"
+    },
+    "calcified": {
+      "name": "Calcified Plaque",
+      "timeframe": "Variable",
+      "duration": "12-24",
+      "durationUnit": "months",
+      "successBase": 91,
+      "description": "Calcified plaques with pentoxifylline-focused protocol",
+      "characteristics": [
+        "Calcified plaque deposits",
+        "Reduced tissue elasticity", 
+        "Higher resistance to treatment",
+        "Excellent response to pentoxifylline"
+      ],
+      "coreComponents": [
+        "pentoxifylline",
+        "vitamin-d3-k2-complex",
+        "l-carnitine",
+        "coq10",
+        "propolis",
+        "ginkgo", 
+        "curcumin-piperine",
+        "bilberry",
+        "silymarin",
+        "vitamin-e",
+        "vitamin-c",
+        "magnesium-glycinate",
+        "vitamin-b-complex",
+        "sod",
+        "boswellia",
+        "diclofenac"
+      ],
+      "optionalComponents": ["copper"],
+      "contraindicated": [],
+      "specialConsiderations": [
+        "Pentoxifylline is priority component",
+        "Consider copper if high-dose zinc is used",
+        "Consider intralesional therapy",
+        "Ultrasound therapy strongly recommended",
+        "Highest documented success rate"
+      ],
+      "verification": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3826933/"
+    },
+    "severe": {
+      "name": "Severe Curvature",
+      "timeframe": ">60° curvature", 
+      "duration": "18-36",
+      "durationUnit": "months",
+      "successBase": 100,
+      "description": "Severe curvature requiring intensive multimodal approach",
+      "characteristics": [
+        "Curvature >60 degrees",
+        "Significant functional impairment",
+        "Complex plaque morphology",
+        "May require surgical consideration"
+      ],
+      "coreComponents": [
+        "l-carnitine",
+        "coq10",
+        "propolis",
+        "ginkgo",
+        "l-citrulline",
+        "curcumin-piperine",
+        "bilberry",
+        "silymarin", 
+        "vitamin-e",
+        "vitamin-c",
+        "vitamin-d3-k2-complex",
+        "magnesium-glycinate",
+        "vitamin-b-complex",
+        "sod",
+        "boswellia",
+        "pentoxifylline",
+        "diclofenac",
+        "tadalafil"
+      ],
+      "optionalComponents": ["copper"],
+      "contraindicated": [],
+      "specialConsiderations": [
+        "Full protocol mandatory",
+        "Monitor zinc-copper balance",
+        "Surgical consultation may be needed",
+        "Longest treatment duration required",
+        "Complete plaque regression documented in case series"
+      ],
+      "verification": "https://www.mdpi.com/2076-3921/11/9/1661"
+    }
+  },
+  "monitoringSchedule": {
+    "baseline": {
+      "timepoint": "Week 0",
+      "clinical": ["Curvature measurement", "IIEF questionnaire"],
+      "laboratory": ["CBC", "CMP", "LFT"],
+      "imaging": ["Penile ultrasound"],
+      "biomarkers": ["TGF-β1 (optional)"],
+      "verification": "https://www.auanet.org/guidelines-and-quality/guidelines/peyronies-disease-guideline"
+    },
+    "week4": {
+      "timepoint": "Week 4", 
+      "clinical": ["Tolerability assessment"],
+      "laboratory": [],
+      "imaging": [],
+      "biomarkers": []
+    },
+    "week8": {
+      "timepoint": "Week 8",
+      "clinical": ["Curvature measurement"],
+      "laboratory": [],
+      "imaging": ["Optional ultrasound"],
+      "biomarkers": []
+    },
+    "week12": {
+      "timepoint": "Week 12",
+      "clinical": ["Full clinical assessment"],
+      "laboratory": ["Safety labs"],
+      "imaging": ["Penile ultrasound"],
+      "biomarkers": ["Optional biomarkers"],
+      "verification": "https://tau.amegroups.org/article/view/12563/html"
+    },
+    "quarterly": {
+      "timepoint": "Every 3 months",
+      "clinical": ["Complete assessment"],
+      "laboratory": ["Safety monitoring"],
+      "imaging": ["Penile ultrasound"], 
+      "biomarkers": ["MMP/TIMP (optional)"],
+      "verification": "https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-022-01569-x"
+    }
+  }
+}

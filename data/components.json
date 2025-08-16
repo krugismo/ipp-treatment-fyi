@@ -1,0 +1,788 @@
+{
+  "referencePatient": {
+    "weight": 75,
+    "height": 175,
+    "age": 45,
+    "bmi": 24.5,
+    "description": "Reference patient for dose normalization"
+  },
+  "components": {
+    "l-carnitine": {
+      "name": "L-Carnitine",
+      "dosePerKg": 10.0,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["morning", "evening"],
+      "pharmacokinetics": {
+        "ka": 0.26,
+        "tmax": 3.4,
+        "f": 16,
+        "vd": 0.25,
+        "halfLife": 60.3,
+        "kp": 1.0
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 25,
+        "collagenReduction": 20,
+        "curvatureReduction": 20,
+        "plaqueReduction": 25,
+        "painRelief": 65,
+        "successRate": 58
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.2,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 1.0
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "l-citrulline": {
+      "name": "L-Citrulline",
+      "dosePerKg": 40.0,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast", "dinner"],
+      "pharmacokinetics": {
+        "ka": 0.35,
+        "tmax": 1.5,
+        "f": 85,
+        "vd": 0.6,
+        "halfLife": 4,
+        "kp": 1.2
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 30,
+        "collagenReduction": 25,
+        "curvatureReduction": 35,
+        "plaqueReduction": 40,
+        "painRelief": 60,
+        "successRate": 70
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.1,
+        "smoking": 1.4,
+        "crCl30": 0.8,
+        "childB": 0.9
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": false,
+        "severe": true
+      }
+    },
+    "coq10": {
+      "name": "CoQ10",
+      "dosePerKg": 1.33,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast"],
+      "pharmacokinetics": {
+        "ka": 0.24,
+        "tmax": 7,
+        "f": 10,
+        "vd": 0.75,
+        "halfLife": 33,
+        "kp": 1.75
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 50,
+        "collagenReduction": 35,
+        "curvatureReduction": 28,
+        "plaqueReduction": 30,
+        "painRelief": 75,
+        "successRate": 60.5
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.3,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "propolis": {
+      "name": "Propolis",
+      "dosePerKg": 8.0,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["noon"],
+      "pharmacokinetics": {
+        "ka": 0.25,
+        "tmax": 2.5,
+        "f": 2.8,
+        "vd": 1.0,
+        "halfLife": 18,
+        "kp": 0.8
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 35,
+        "collagenReduction": 45,
+        "curvatureReduction": 25,
+        "plaqueReduction": 66.4,
+        "painRelief": 65,
+        "successRate": 75
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.2,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": "addon",
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "ginkgo": {
+      "name": "Ginkgo Biloba",
+      "dosePerKg": 3.33,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["noon"],
+      "pharmacokinetics": {
+        "ka": 0.30,
+        "tmax": 2.5,
+        "f": 84,
+        "vd": 0.65,
+        "halfLife": 5,
+        "kp": 1.0
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 25,
+        "collagenReduction": 25,
+        "curvatureReduction": 20,
+        "plaqueReduction": 25,
+        "painRelief": 55,
+        "successRate": 65
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "bilberry": {
+      "name": "Bilberry",
+      "dosePerKg": 2.13,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["noon"],
+      "pharmacokinetics": {
+        "ka": 0.35,
+        "tmax": 1.75,
+        "f": 0.93,
+        "vd": 0.8,
+        "halfLife": 3,
+        "kp": 0.65
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 20,
+        "collagenReduction": 18,
+        "curvatureReduction": 15,
+        "plaqueReduction": 20,
+        "painRelief": 45,
+        "successRate": 55
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.2,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 1.0
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "silymarin": {
+      "name": "Silymarin",
+      "dosePerKg": 5.33,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["dinner"],
+      "pharmacokinetics": {
+        "ka": 1.25,
+        "tmax": 0.8,
+        "f": 23,
+        "vd": 0.9,
+        "halfLife": 7,
+        "kp": 0.85
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 30,
+        "collagenReduction": 25,
+        "curvatureReduction": 15,
+        "plaqueReduction": 20,
+        "painRelief": 45,
+        "successRate": 55
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.2,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.5
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "vitamin-e": {
+      "name": "Vitamin E",
+      "dosePerKg": 4.0,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast", "dinner"],
+      "pharmacokinetics": {
+        "ka": 0.12,
+        "tmax": 9,
+        "f": 30,
+        "vd": 12.5,
+        "halfLife": 20,
+        "kp": 2.5
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 35,
+        "collagenReduction": 30,
+        "curvatureReduction": 20,
+        "plaqueReduction": 25,
+        "painRelief": 55,
+        "successRate": 60
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.4,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "omega-3-complex": {
+      "name": "Omega-3 Complex (EPA+DHA)",
+      "dosePerKg": 33.33,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast", "dinner"],
+      "pharmacokinetics": {
+        "ka": 0.15,
+        "tmax": 4.5,
+        "f": 85,
+        "vd": 2.8,
+        "halfLife": 18,
+        "kp": 1.8
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 40,
+        "collagenReduction": 35,
+        "curvatureReduction": 25,
+        "plaqueReduction": 30,
+        "painRelief": 70,
+        "successRate": 75
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.2,
+        "smoking": 1.3,
+        "crCl30": 1.0,
+        "childB": 0.9
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "vitamin-c": {
+      "name": "Vitamin C",
+      "dosePerKg": 6.67,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["morning", "evening"],
+      "pharmacokinetics": {
+        "ka": 0.23,
+        "tmax": 3.5,
+        "f": 80,
+        "vd": 0.55,
+        "halfLife": 10,
+        "kp": 0.4
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 25,
+        "collagenReduction": 35,
+        "curvatureReduction": 15,
+        "plaqueReduction": 20,
+        "painRelief": 45,
+        "successRate": 50
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.2,
+        "smoking": 2.0,
+        "crCl30": 0.5,
+        "childB": 1.0
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "vitamin-d3-k2-complex": {
+      "name": "Vitamin D3+K2 Complex",
+      "dosePerKg": 53.33,
+      "frequency": "QD",
+      "unit": "IU",
+      "route": "oral",
+      "timing": ["breakfast"],
+      "pharmacokinetics": {
+        "ka": 0.08,
+        "tmax": 12,
+        "f": 60,
+        "vd": 2.2,
+        "halfLife": 168,
+        "kp": 3.5
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 20,
+        "collagenReduction": 15,
+        "curvatureReduction": 10,
+        "plaqueReduction": 45,
+        "painRelief": 50,
+        "successRate": 65
+      },
+      "adjustments": {
+        "age65": 0.8,
+        "bmi30": 1.1,
+        "smoking": 1.2,
+        "crCl30": 0.9,
+        "childB": 0.7
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": "priority",
+        "severe": true
+      }
+    },
+    "tadalafil": {
+      "name": "Tadalafil",
+      "dosePerKg": 0.067,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["evening"],
+      "pharmacokinetics": {
+        "ka": 0.8,
+        "tmax": 2,
+        "f": 80,
+        "vd": 0.9,
+        "halfLife": 17.5,
+        "kp": 1.2
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 65,
+        "collagenReduction": 40,
+        "curvatureReduction": 25,
+        "plaqueReduction": 35,
+        "painRelief": 45,
+        "successRate": 75
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 0.5,
+        "childB": 0.5
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": false,
+        "severe": true
+      }
+    },
+    "olive-oil": {
+      "name": "Olive Oil (Flos Olei 99)",
+      "dosePerKg": 0.667,
+      "frequency": "QD",
+      "unit": "ml",
+      "route": "oral",
+      "timing": ["dinner"],
+      "pharmacokinetics": {
+        "ka": 0.5,
+        "tmax": 4,
+        "f": 75,
+        "vd": 5.0,
+        "halfLife": 24,
+        "kp": 2.5
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 15,
+        "collagenReduction": 12,
+        "curvatureReduction": 8,
+        "plaqueReduction": 10,
+        "painRelief": 30,
+        "successRate": 45
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 0.9,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.9
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": false,
+        "severe": false
+      }
+    },
+    "sod": {
+      "name": "SOD (GliSODin)",
+      "dosePerKg": 6.67,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["morning"],
+      "pharmacokinetics": {
+        "ka": 0.20,
+        "tmax": 3,
+        "f": 4,
+        "vd": 0.25,
+        "halfLife": 6,
+        "kp": 0.3
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 30,
+        "collagenReduction": 25,
+        "curvatureReduction": 20,
+        "plaqueReduction": 57.1,
+        "painRelief": 100,
+        "successRate": 80
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "boswellia": {
+      "name": "Boswellia",
+      "dosePerKg": 2.67,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast"],
+      "pharmacokinetics": {
+        "ka": 0.25,
+        "tmax": 2.5,
+        "f": 15,
+        "vd": 1.15,
+        "halfLife": 5.5,
+        "kp": 1.0
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 40,
+        "collagenReduction": 35,
+        "curvatureReduction": 20,
+        "plaqueReduction": 25,
+        "painRelief": 75,
+        "successRate": 65
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.2,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.75
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "pentoxifylline": {
+      "name": "Pentoxifylline",
+      "dosePerKg": 5.33,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["evening", "dinner"],
+      "pharmacokinetics": {
+        "ka": 3.0,
+        "tmax": 1.5,
+        "f": 25,
+        "vd": 0.61,
+        "halfLife": 1,
+        "kp": 0.7
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 87.5,
+        "collagenReduction": 55,
+        "curvatureReduction": 30,
+        "plaqueReduction": 69.4,
+        "painRelief": 85,
+        "successRate": 91
+      },
+      "adjustments": {
+        "age65": 0.75,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 0.5,
+        "childB": 0.5
+      },
+      "stages": {
+        "acute": "addon",
+        "chronic": true,
+        "calcified": "priority",
+        "severe": true
+      }
+    },
+    "diclofenac": {
+      "name": "Diclofenac Gel",
+      "dosePerKg": 40,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "topical",
+      "timing": ["topical"],
+      "pharmacokinetics": {
+        "ka": "N/A",
+        "tmax": 1.5,
+        "f": 8,
+        "vd": 0.15,
+        "halfLife": 2.5,
+        "kp": 15
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 25,
+        "collagenReduction": 20,
+        "curvatureReduction": 15,
+        "plaqueReduction": 15,
+        "painRelief": 85,
+        "successRate": 65
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 1.0
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "curcumin-piperine": {
+      "name": "Curcumin + Piperine",
+      "dosePerKg": 13.33,
+      "frequency": "BID",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast", "dinner"],
+      "pharmacokinetics": {
+        "ka": 0.18,
+        "tmax": 2.5,
+        "f": 85,
+        "vd": 1.2,
+        "halfLife": 8,
+        "kp": 1.4
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 55,
+        "collagenReduction": 45,
+        "curvatureReduction": 30,
+        "plaqueReduction": 40,
+        "painRelief": 70,
+        "successRate": 75
+      },
+      "adjustments": {
+        "age65": 0.8,
+        "bmi30": 1.1,
+        "smoking": 1.3,
+        "crCl30": 1.0,
+        "childB": 0.7
+      },
+      "stages": {
+        "acute": true,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "magnesium-glycinate": {
+      "name": "Magnesium Glycinate",
+      "dosePerKg": 6.67,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["evening"],
+      "pharmacokinetics": {
+        "ka": 0.12,
+        "tmax": 2.5,
+        "f": 75,
+        "vd": 0.8,
+        "halfLife": 8.3,
+        "kp": 0.9
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 20,
+        "collagenReduction": 15,
+        "curvatureReduction": 25,
+        "plaqueReduction": 20,
+        "painRelief": 55,
+        "successRate": 65
+      },
+      "adjustments": {
+        "age65": 1.0,
+        "bmi30": 1.1,
+        "smoking": 1.0,
+        "crCl30": 0.8,
+        "childB": 0.9
+      },
+      "stages": {
+        "acute": "addon",
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "copper": {
+      "name": "Copper (Chelated)",
+      "dosePerKg": 0.027,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast"],
+      "pharmacokinetics": {
+        "ka": 0.25,
+        "tmax": 2,
+        "f": 30,
+        "vd": 0.15,
+        "halfLife": 18,
+        "kp": 0.6
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 10,
+        "collagenReduction": 15,
+        "curvatureReduction": 8,
+        "plaqueReduction": 10,
+        "painRelief": 20,
+        "successRate": 40
+      },
+      "adjustments": {
+        "age65": 0.9,
+        "bmi30": 1.0,
+        "smoking": 1.0,
+        "crCl30": 1.0,
+        "childB": 0.8
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    },
+    "vitamin-b-complex": {
+      "name": "Vitamin B Complex (B1+B6+B12)",
+      "dosePerKg": 1.67,
+      "frequency": "QD",
+      "unit": "mg",
+      "route": "oral",
+      "timing": ["breakfast"],
+      "pharmacokinetics": {
+        "ka": 0.25,
+        "tmax": 2.0,
+        "f": 70,
+        "vd": 0.6,
+        "halfLife": 12,
+        "kp": 0.8
+      },
+      "pharmacodynamics": {
+        "tgfReduction": 15,
+        "collagenReduction": 10,
+        "curvatureReduction": 20,
+        "plaqueReduction": 15,
+        "painRelief": 45,
+        "successRate": 55
+      },
+      "adjustments": {
+        "age65": 0.9,
+        "bmi30": 1.0,
+        "smoking": 1.2,
+        "crCl30": 0.9,
+        "childB": 1.0
+      },
+      "stages": {
+        "acute": false,
+        "chronic": true,
+        "calcified": true,
+        "severe": true
+      }
+    }
+  }
+}

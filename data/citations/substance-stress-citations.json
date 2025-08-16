@@ -1,0 +1,168 @@
+{
+    "smoking-20-cigarettes": {
+        "title": "Smoking-Induced Oxidative Stress (20 cigarettes/day)",
+        "papers": [
+            {
+                "title": "Cigarette Smoking and Oxidative Stress in Patients with Coronary Artery Disease",
+                "authors": "Kotur-Stevuljevic J, Memon L, Stefanovic A, et al.",
+                "journal": "Open Chem Biomed Methods J. 2009;2:1-8",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5175512/"
+            },
+            {
+                "title": "The effects of heavy smoking on oxidative stress, inflammatory biomarkers, vascular dysfunction, and hematological indices",
+                "authors": "Abdulla KH, Ali FA, Hamad HH, et al.",
+                "journal": "Sci Rep. 2025;15(1):3075",
+                "url": "https://www.nature.com/articles/s41598-025-03075-8"
+            },
+            {
+                "title": "Chronic cigarette smoking-induced oxidative/nitrosative stress in human erythrocytes and platelets",
+                "authors": "Padmavathi P, Reddy VD, Kavitha G, et al.",
+                "journal": "Mol Cell Toxicol. 2018;14(1):27-34",
+                "url": "https://link.springer.com/article/10.1007/s13273-018-0004-6"
+            }
+        ]
+    },
+
+    "cannabis-hpa-disruption": {
+        "title": "Cannabis Effects on HPA Axis",
+        "papers": [
+            {
+                "title": "Marijuana Use and Hypothalamic-Pituitary-Adrenal Axis Functioning in Humans",
+                "authors": "Cuttler C, Spradlin A, Nusbaum AT, et al.",
+                "journal": "Front Psychiatry. 2018;9:472",
+                "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00472/full"
+            },
+            {
+                "title": "The relationship between cannabis use and cortisol levels in youth at ultra high-risk for psychosis",
+                "authors": "Carol EE, Mittal VA",
+                "journal": "Psychoneuroendocrinology. 2017;83:58-64",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306453017301130"
+            },
+            {
+                "title": "The effects of cannabinoids on serum cortisol and prolactin in humans",
+                "authors": "Ranganathan M, Braley G, Pittman B, et al.",
+                "journal": "Psychopharmacology (Berl). 2009;203(4):737-744",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2863108/"
+            }
+        ]
+    },
+
+    "oxidative-stress-200-percent": {
+        "title": "200% Increase in Oxidative Stress from Smoking",
+        "papers": [
+            {
+                "title": "Long-term effects of smoking on serum concentrations of oxidative stress biomarkers",
+                "authors": "Trares K, Gào X, Perna L, et al.",
+                "journal": "Environ Res. 2021;202:111924",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0013935121012184"
+            },
+            {
+                "title": "Relationships among smoking, oxidative stress, inflammation, macromolecular damage, and cancer",
+                "authors": "Caliri AW, Tommasi S, Besaratinia A",
+                "journal": "Mutat Res Rev Mutat Res. 2021;787:108365",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8287787/"
+            },
+            {
+                "title": "Impact of smoking on oxidant/antioxidant status and oxidative stress index levels in serum of university students",
+                "authors": "Khani-Juyabad S, Setayesh L, Tanideh N, et al.",
+                "journal": "J Res Med Sci. 2021;26:25",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8172765/"
+            }
+        ]
+    },
+
+    "synergistic-stress-axis-damage": {
+        "title": "Synergistic Effects of Smoking and Cannabis on Stress Axis",
+        "papers": [
+            {
+                "title": "Oxidative stress produced by marijuana smoke. An adverse effect enhanced by cannabinoids",
+                "authors": "Sarafian TA, Magallanes JA, Shau H, et al.",
+                "journal": "Am J Respir Cell Mol Biol. 1999;20(6):1286-1293",
+                "url": "https://www.atsjournals.org/doi/full/10.1165/ajrcmb.20.6.3424"
+            },
+            {
+                "title": "Tetrahydrocannabinol Induces Brain Mitochondrial Respiratory Chain Dysfunction and Increases Oxidative Stress",
+                "authors": "Wolff V, Schlagowski AI, Rouyer O, et al.",
+                "journal": "Biomed Res Int. 2015;2015:323706",
+                "url": "https://www.hindawi.com/journals/bmri/2015/323706/"
+            },
+            {
+                "title": "N-Acetylcysteine for Smoking Cessation in Tobacco and Cannabis Co-Use",
+                "authors": "UCSF Clinical Trial",
+                "journal": "ClinicalTrials.gov Identifier: NCT04627922",
+                "url": "https://clinicaltrials.ucsf.edu/trial/NCT04627922"
+            }
+        ]
+    },
+    "alcohol-cyp2e1-ros": {
+        "title": "Alcohol-Induced CYP2E1 and ROS Generation",
+        "papers": [
+            {
+                "title": "CYP2E1 in Alcoholic and Non-Alcoholic Liver Injury. Roles of ROS, Reactive Intermediates and Lipid Overload",
+                "authors": "Harjumäki R, Pridgeon CS, Ingelman-Sundberg M",
+                "journal": "Int J Mol Sci. 2021;22(15):8221",
+                "url": "https://www.mdpi.com/1422-0067/22/15/8221"
+            },
+            {
+                "title": "Role of oxidative stress in alcohol-induced liver injury",
+                "authors": "Cederbaum AI, Lu Y, Wu D",
+                "journal": "Arch Toxicol. 2009;83(6):519-548",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/19448996/"
+            },
+            {
+                "title": "Alcohol, Oxidative Stress, and Free Radical Damage",
+                "authors": "Wu D, Cederbaum AI",
+                "journal": "Alcohol Res Health. 2003;27(4):277-284",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6668865/"
+            }
+        ]
+    },
+
+    "alcohol-tnf-immune-activation": {
+        "title": "Alcohol-Induced TNF-α and Immune Activation",
+        "papers": [
+            {
+                "title": "Cytochrome P4502E1 primes macrophages to increase TNF-alpha production in response to lipopolysaccharide",
+                "authors": "Cao Q, Mak KM, Lieber CS",
+                "journal": "Am J Physiol Gastrointest Liver Physiol. 2005;289(4):G641-652",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/15961886/"
+            },
+            {
+                "title": "Oxidative Stress and Inflammation: Essential Partners in Alcoholic Liver Disease",
+                "authors": "Ambade A, Mandrekar P",
+                "journal": "Int J Hepatol. 2012;2012:853175",
+                "url": "https://onlinelibrary.wiley.com/doi/10.1155/2012/853175"
+            },
+            {
+                "title": "Therapeutic strategies for alcoholic liver disease: Focusing on inflammation and fibrosis",
+                "authors": "Suk KT, Kim MY, Baik SK",
+                "journal": "Int J Mol Med. 2017;40(2):263-270",
+                "url": "https://www.spandidos-publications.com/10.3892/ijmm.2017.3015"
+            }
+        ]
+    },
+
+    "alcohol-antioxidant-depletion": {
+        "title": "Alcohol-Induced Antioxidant Depletion and GSH Reduction",
+        "papers": [
+            {
+                "title": "Alcohol-Induced Oxidative Stress and the Role of Antioxidants in Alcohol Use Disorder: A Systematic Review",
+                "authors": "Michalak A, Lach T, Cichoż-Lach H",
+                "journal": "Antioxidants (Basel). 2022;11(7):1374",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9311529/"
+            },
+            {
+                "title": "Oxidative stress in alcohol-related liver disease",
+                "authors": "Stewart S, Jones D, Day CP",
+                "journal": "World J Gastroenterol. 2020;26(27):3720-3739",
+                "url": "https://www.wjgnet.com/1948-5182/full/v12/i7/332.htm"
+            },
+            {
+                "title": "Alcohol-induced oxidative stress",
+                "authors": "Das SK, Vasudevan DM",
+                "journal": "Life Sci. 2007;81(3):177-187",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S002432050700358X"
+            }
+        ]
+    }
+}

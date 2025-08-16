@@ -1,0 +1,180 @@
+{
+    "vitamin-e": {
+      "title": "Vitamin E (α-tocopherol) Antioxidant and ROS Scavenging",
+      "papers": [
+        {
+          "title": "Vitamins C and E: Beneficial effects from a mechanistic perspective",
+          "authors": "Traber MG, Stevens JF",
+          "journal": "Free Radic Biol Med. 2011;51(5):1000-1013",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3156342/"
+        },
+        {
+          "title": "Potential Antiatherogenic Mechanisms of Ascorbate (Vitamin C) and α-Tocopherol (Vitamin E)",
+          "authors": "Carr AC, Zhu BZ, Frei B",
+          "journal": "Circ Res. 2000;87(5):349-354",
+          "url": "https://www.ahajournals.org/doi/10.1161/01.res.87.5.349"
+        },
+        {
+          "title": "Antioxidant and Anti-Tumor Effects of Dietary Vitamins A, C, and E",
+          "authors": "Serna J, Bergwitz C",
+          "journal": "Antioxidants (Basel). 2023;12(3):632",
+          "url": "https://www.mdpi.com/2076-3921/12/3/632"
+        }
+      ]
+    },
+    "vitamin-c": {
+      "title": "Vitamin C (Ascorbic Acid) ROS Scavenging and Vitamin E Regeneration",
+      "papers": [
+        {
+          "title": "Vitamins C and E: Beneficial effects from a mechanistic perspective",
+          "authors": "Traber MG, Stevens JF",
+          "journal": "Free Radic Biol Med. 2011;51(5):1000-1013",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3156342/"
+        },
+        {
+          "title": "Vitamin C",
+          "authors": "Padayatty SJ, Levine M",
+          "journal": "Linus Pauling Institute, Oregon State University",
+          "url": "https://lpi.oregonstate.edu/mic/vitamins/vitamin-C"
+        },
+        {
+          "title": "Interaction between Vitamins C and E When Scavenging the Superoxide Radical",
+          "authors": "Mendieta-Serrano MA, Schnabel D, Lomelí H, Salas-Vidal E",
+          "journal": "Molecules. 2024;4(2):22",
+          "url": "https://www.mdpi.com/2673-4125/4/2/22"
+        }
+      ]
+    },
+    "vitamin-c-e-regeneration": {
+      "title": "Vitamin C-E Regeneration Cycle",
+      "papers": [
+        {
+          "title": "Interaction between Vitamins C and E When Scavenging the Superoxide Radical Shown by Hydrodynamic Voltammetry and DFT",
+          "authors": "Garcia-Diez G, Mora-Diez N",
+          "journal": "Molecules. 2024;4(2):22",
+          "url": "https://www.mdpi.com/2673-4125/4/2/22"
+        },
+        {
+          "title": "Regeneration of vitamin E (tocopherol) by vitamin C",
+          "authors": "Lu R, Muller JM, Harrison FE",
+          "journal": "Chitosan Nanoparticles Research. 2010",
+          "url": "https://www.researchgate.net/figure/Regeneration-of-vitamin-E-tocopherol-by-vitamin-C_fig3_340348229"
+        }
+      ]
+    },
+    "sod": {
+      "title": "Superoxide Dismutase (SOD) - H2O2 Generation and ROS Elimination",
+      "papers": [
+        {
+          "title": "Superoxide dismutases: Dual roles in controlling ROS damage and regulating ROS signaling",
+          "authors": "Wang Y, Branicky R, Noë A, Hekimi S",
+          "journal": "J Cell Biol. 2018;217(6):1915-1928",
+          "url": "https://rupress.org/jcb/article/217/6/1915/39308/"
+        },
+        {
+          "title": "The Applications and Mechanisms of Superoxide Dismutase in Medicine, Food, and Cosmetics",
+          "authors": "Wang L, Li H, Yang S, et al.",
+          "journal": "Antioxidants (Basel). 2023;12(9):1675",
+          "url": "https://www.mdpi.com/2076-3921/12/9/1675"
+        },
+        {
+          "title": "Therapeutic potentials of superoxide dismutase",
+          "authors": "Younus H",
+          "journal": "Int J Health Sci (Qassim). 2018;12(3):88-93",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5969776/"
+        }
+      ]
+    },
+    "nac": {
+      "title": "N-Acetylcysteine (NAC) - Glutathione Synthesis and ROS Scavenging",
+      "papers": [
+        {
+          "title": "N-acetylcysteine - a safe antidote for cysteine/glutathione deficiency",
+          "authors": "Mokhtari V, Afsharian P, Shahhoseini M, et al.",
+          "journal": "Curr Opin Pharmacol. 2017;7:355-359",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4540061/"
+        },
+        {
+          "title": "The mechanism of action of N-acetylcysteine (NAC): The emerging role of H2S and sulfane sulfur species",
+          "authors": "Ezerina D, Takano Y, Hanaoka K, et al.",
+          "journal": "Pharmacol Ther. 2021;228:107916",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0163725821001182"
+        },
+        {
+          "title": "Direct Interaction between N-Acetylcysteine and Cytotoxic Electrophile",
+          "authors": "Vašková J, Kočan L, Vaško L, Perjési P",
+          "journal": "Antioxidants (Basel). 2022;11(8):1443",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9405167/"
+        }
+      ]
+    },
+    "silymarin": {
+      "title": "Silymarin - Glutathione Enhancement and Hepatoprotection",
+      "papers": [
+        {
+          "title": "Hepatoprotective effect of silymarin",
+          "authors": "Vargas-Mendoza N, Madrigal-Santillán E, et al.",
+          "journal": "World J Hepatol. 2014;6(3):144-149",
+          "url": "https://www.wjgnet.com/1948-5182/full/v6/i3/144.htm"
+        },
+        {
+          "title": "Silymarin as a Natural Antioxidant: An Overview of the Current Evidence and Perspectives",
+          "authors": "Surai PF",
+          "journal": "Antioxidants (Basel). 2015;4(1):204-247",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4665566/"
+        },
+        {
+          "title": "Silymarin prevents acetaminophen-induced hepatotoxicity via up-regulation of the glutathione conjugation capacity",
+          "authors": "Kim SH, Oh DS, Oh JY, et al.",
+          "journal": "J Funct Foods. 2018;49:235-240",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1756464618304493"
+        }
+      ]
+    },
+    "selenium": {
+      "title": "Selenium - Glutathione Peroxidase (GPx) Cofactor",
+      "papers": [
+        {
+          "title": "Glutathione Peroxidase-1 in Health and Disease: From Molecular Mechanisms to Therapeutic Opportunities",
+          "authors": "Lubos E, Loscalzo J, Handy DE",
+          "journal": "Antioxid Redox Signal. 2011;15(7):1957-1997",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3159114/"
+        },
+        {
+          "title": "Research progress of glutathione peroxidase family (GPX) in redoxidation",
+          "authors": "Li K, Feng T, Liu L, et al.",
+          "journal": "Front Pharmacol. 2023;14:1147414",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1147414/full"
+        },
+        {
+          "title": "Selenium-Dependent Antioxidant Enzymes: Actions and Properties of Selenoproteins",
+          "authors": "Kieliszek M, Błażejak S",
+          "journal": "Int J Mol Sci. 2018;19(6):1581",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5981252/"
+        }
+      ]
+    },
+    "stress-management": {
+      "title": "Stress Management (Meditation/Breathwork) - Cortisol and Oxidative Stress Reduction",
+      "papers": [
+        {
+          "title": "Diaphragmatic Breathing Reduces Exercise-Induced Oxidative Stress",
+          "authors": "Martarelli D, Cocchioni M, Scuri S, Pompei P",
+          "journal": "Evid Based Complement Alternat Med. 2011;2011:932430",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3139518/"
+        },
+        {
+          "title": "Effects of mindfulness meditation on serum cortisol of medical students",
+          "authors": "Turakitwanakan W, Mekseepralard C, Busarakumtragul P",
+          "journal": "J Med Assoc Thai. 2013;96 Suppl 1:S90-5",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23724462/"
+        },
+        {
+          "title": "Meditation interventions efficiently reduce cortisol levels of at-risk samples: a meta-analysis",
+          "authors": "Koncz A, Demetrovics Z, Takacs ZK",
+          "journal": "Health Psychol Rev. 2021;15(1):56-84",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1760727"
+        }
+      ]
+    }
+  }

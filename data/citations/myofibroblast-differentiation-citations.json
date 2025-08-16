@@ -1,0 +1,71 @@
+{
+    "alpha-sma-expression": {
+      "title": "α-SMA Expression in Peyronie's Disease",
+      "papers": [
+        {
+          "title": "Phosphodiesterase Type 5 Inhibitors and Selective Estrogen Receptor Modulators Can Prevent But Not Reverse Myofibroblast Transformation in Peyronie's Disease",
+          "authors": "Ilg MM, Mateus M, Stebbeds WJ, et al.",
+          "journal": "J Sex Med. 2020;17(9):1848-1864",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S174360952030727X"
+        },
+        {
+          "title": "Molecular Mechanisms and Current Pharmacotherapy of Peyronie's Disease: A Review",
+          "authors": "Jiang H, Gao Q, Che X, et al.",
+          "journal": "Front Pharmacol. 2021;12:643641",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.643641/full"
+        },
+        {
+          "title": "Epigenetic regulators and inhibitors of TGFβ1-induced myofibroblast differentiation in Peyronie's disease",
+          "authors": "Choi JH, Lee SE, et al.",
+          "journal": "World J Mens Health. 2020;38(4):552-565",
+          "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/peyronies-disease"
+        }
+      ]
+    },
+    "fibroblast-myofibroblast-transformation": {
+      "title": "Fibroblast to Myofibroblast Transformation",
+      "papers": [
+        {
+          "title": "Inhibition of Phosphodiesterases 1 and 4 Prevents Myofibroblast Transformation in Peyronie's Disease",
+          "authors": "Harding E, Ilg MM, Ralph DJ, Cellek S",
+          "journal": "BJU Int. 2024;133(6):810-820",
+          "url": "https://www.researchgate.net/publication/387353115"
+        },
+        {
+          "title": "Statins synergize with other drugs to prevent myofibroblast transformation in in vitro model of Peyronie's disease",
+          "authors": "Megson M, Ilg MM, Ralph DJ, Cellek S",
+          "journal": "J Sex Med. 2022;19(11):1653-1661",
+          "url": "https://www.researchgate.net/publication/365667357"
+        },
+        {
+          "title": "Redox Signaling as a Therapeutic Target to Inhibit Myofibroblast Activation in Degenerative Fibrotic Disease",
+          "authors": "Sampson N, Berger P, Zenzmaier C",
+          "journal": "Biomed Res Int. 2014;2014:131737",
+          "url": "https://www.hindawi.com/journals/bmri/2014/131737/"
+        }
+      ]
+    },
+    "key-fibrotic-switch": {
+      "title": "Key Fibrotic Switch Mechanism",
+      "papers": [
+        {
+          "title": "The myofibroblast in wound healing and fibrocontractive diseases",
+          "authors": "Hinz B",
+          "journal": "J Pathol. 2007;200(4):500-503",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/path.1388"
+        },
+        {
+          "title": "TGF-β1-induced myofibroblast transformation and SMAD signaling in Peyronie's disease",
+          "authors": "Herati AS, Pastuszak AW",
+          "journal": "Asian J Androl. 2016;18(5):692-697",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.643641/full"
+        },
+        {
+          "title": "Peyronie's Disease and Mechanotransduction: An In Vitro Analysis",
+          "authors": "Chung E, Wang R, Ralph D, et al.",
+          "journal": "J Sex Med. 2013;10(5):1259-1267",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-11701-5_6"
+        }
+      ]
+    }
+  }

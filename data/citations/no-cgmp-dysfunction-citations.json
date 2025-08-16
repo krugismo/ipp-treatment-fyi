@@ -1,0 +1,268 @@
+{
+    "enos-uncoupling": {
+      "title": "eNOS Uncoupling in Peyronie's Disease and Erectile Dysfunction",
+      "papers": [
+        {
+          "title": "eNOS-uncoupling in age-related erectile dysfunction",
+          "authors": "Musicki B, Liu T, Lagoda GA, Bivalacqua TJ, Strong TD, Burnett AL",
+          "journal": "Int J Impot Res. 2011;23(2):43-48",
+          "url": "https://www.nature.com/articles/ijir20112"
+        },
+        {
+          "title": "Hypercholesterolemia-induced erectile dysfunction: endothelial nitric oxide synthase (eNOS) uncoupling in the mouse penis by NAD(P)H oxidase",
+          "authors": "Musicki B, Liu T, Lagoda GA, Strong TD, Sezen SF, Johnson JM, Burnett AL",
+          "journal": "J Sex Med. 2010;7(9):3023-3032",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2958216/"
+        },
+        {
+          "title": "eNOS function and dysfunction in the penis",
+          "authors": "Musicki B, Burnett AL",
+          "journal": "Exp Biol Med (Maywood). 2006;231(2):154-165",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16446491/"
+        }
+      ]
+    },
+    "bh4-oxidation": {
+      "title": "Tetrahydrobiopterin Oxidation and eNOS Uncoupling",
+      "papers": [
+        {
+          "title": "Oxidation of tetrahydrobiopterin by peroxynitrite: implications for vascular endothelial function",
+          "authors": "Milstien S, Katusic Z",
+          "journal": "Biochem Biophys Res Commun. 1999;263(3):681-684",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10512739/"
+        },
+        {
+          "title": "Interactions of peroxynitrite, tetrahydrobiopterin, ascorbic acid, and thiols: implications for uncoupling endothelial nitric-oxide synthase",
+          "authors": "Kuzkaya N, Weissmann N, Harrison DG, Dikalov S",
+          "journal": "J Biol Chem. 2003;278(25):22546-22554",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12692136/"
+        },
+        {
+          "title": "Tetrahydrobiopterin, superoxide, and vascular dysfunction",
+          "authors": "Vásquez-Vivar J",
+          "journal": "Free Radic Biol Med. 2009;47(8):1108-1119",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19628033/"
+        },
+        {
+          "title": "Vascular protection by tetrahydrobiopterin: progress and therapeutic prospects",
+          "authors": "Katusic ZS, d'Uscio LV, Nath KA",
+          "journal": "Trends Pharmacol Sci. 2009;30(1):48-54",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0165614708002435"
+        }
+      ]
+    },
+    "peroxynitrite-formation": {
+      "title": "Peroxynitrite Formation from NO and Superoxide",
+      "papers": [
+        {
+          "title": "Oxidation of the zinc-thiolate complex and uncoupling of endothelial nitric oxide synthase by peroxynitrite",
+          "authors": "Zou MH, Shi C, Cohen RA",
+          "journal": "J Clin Invest. 2002;109(6):817-826",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11901190/"
+        },
+        {
+          "title": "Oxidation of tetrahydrobiopterin by peroxynitrite or oxoferryl species occurs by a radical pathway",
+          "authors": "Pou S, Pou WS, Bredt DS, Snyder SH, Rosen GM",
+          "journal": "Free Radic Biol Med. 2002;32(4):343-349",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11811523/"
+        },
+        {
+          "title": "The pathogenic role of the immune system in erectile dysfunction and Peyronie's disease: focusing on immunopathophysiology and potential therapeutic strategies",
+          "authors": "Giagulli VA, Lisco G, De Tullio A, Guastamacchia E, Triggiani V, Jirillo E",
+          "journal": "Sex Med Rev. 2024;12(2):210-220",
+          "url": "https://academic.oup.com/smr/article/12/2/210/7513570"
+        }
+      ]
+    },
+    "smooth-muscle-dysfunction": {
+      "title": "Corpus Cavernosum Smooth Muscle Dysfunction",
+      "papers": [
+        {
+          "title": "Localized fibrosis of the corpus cavernosum: an example of fibrosis arising from the vascular smooth muscle cells",
+          "authors": "Davila HH, Magee TR, Zuniga FI, Rajfer J, Gonzalez-Cadavid NF",
+          "journal": "J Sex Med. 2000;11(2):116-122",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10859553/"
+        },
+        {
+          "title": "Stereological and biochemical analysis of muscular and connective tissue components in the penile corpus cavernosum adjacent to the fibrous plaque of Peyronie's disease",
+          "authors": "Costa WS, Rebello SB, Cardoso LE, Cavalcanti AG, Sampaio FJ",
+          "journal": "BJU Int. 2009;103(2):212-216",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18782314/"
+        },
+        {
+          "title": "Long-Term Continuous Treatment with Sildenafil Ameliorates Aging-Related Erectile Dysfunction and the Underlying Corporal Fibrosis in the Rat",
+          "authors": "Ferrini MG, Kovanecz I, Sanchez S, Vernet D, Davila HH, Rajfer J",
+          "journal": "Biol Reprod. 2007;76(5):915-923",
+          "url": "https://academic.oup.com/biolreprod/article/76/5/915/2629679"
+        },
+        {
+          "title": "Molecular Mechanisms and Current Pharmacotherapy of Peyronie's Disease: A Review",
+          "authors": "Zhang F, Qin F, Yuan J",
+          "journal": "Front Pharmacol. 2021;12:643641",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.643641/full"
+        }
+      ]
+    },
+    "erectile-dysfunction": {
+      "title": "Erectile Dysfunction Secondary to NO/cGMP Pathway Dysfunction",
+      "papers": [
+        {
+          "title": "Erectile Dysfunction and Peyronie's Disease: Genetic Diseases?",
+          "authors": "Kessler A, Sollie S, Challacombe B, Briggs K, Van Hemelrijck M",
+          "journal": "Sex Med Rev. 2019;7(2):313-323",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S240545691930224X"
+        },
+        {
+          "title": "Understanding the cellular basis and pathophysiology of Peyronie's disease to optimize treatment for erectile dysfunction",
+          "authors": "Campbell DJW, Bennett N, Gonzalez DC",
+          "journal": "Transl Androl Urol. 2017;6(1):46-59",
+          "url": "https://tau.amegroups.org/article/view/12563/html"
+        },
+        {
+          "title": "Evaluation of tetrahydrobiopterin (BH4) as a potential therapeutic agent to treat erectile dysfunction",
+          "authors": "Sommer F, Klotz T, Steinritz D, Schmidt A, Addicks K, Engelmann U, et al.",
+          "journal": "Asian J Androl. 2006;8(2):159-167",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16491266/"
+        },
+        {
+          "title": "Treatments for fibrosis of the corpora cavernosa",
+          "authors": "Iacono F, Prezioso D, Ruffo A, Illiano E, Romis L",
+          "journal": "Arab J Urol. 2013;11(3):299-307",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4443017/"
+        },
+        {
+          "title": "All about Peyronie's disease",
+          "authors": "Al-Thakafi S, Al-Hathal N",
+          "journal": "Asian J Urol. 2016;3(2):70-78",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2214388215000430"
+        }
+      ]
+    },
+    "omega3-vascular-no": {
+      "title": "Omega-3 Fatty Acids Vascular and NO Enhancement",
+      "papers": [
+        {
+          "title": "Effects of Omega-3 Fatty Acids on Erectile Dysfunction in a Rat Model of Atherosclerosis-induced Chronic Pelvic Ischemia",
+          "authors": "Kalyvianaki K, Memmos E, Mykoniatis I, et al.",
+          "journal": "Urology. 2016;91:e1-8",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810342/"
+        },
+        {
+          "title": "Omega-3 and omega-6 fatty acids have distinct effects on endothelial fatty acid content and nitric oxide bioavailability",
+          "authors": "Roke K, Walton K, Klingel SL, et al.",
+          "journal": "Mol Nutr Food Res. 2017;61(9):1700129",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0952327821000995"
+        },
+        {
+          "title": "Eicosapentaenoic Acid Improves Endothelial Nitric Oxide Bioavailability Via Changes in Protein Expression During Inflammation",
+          "authors": "Protocols LS, Fisher EA, Shapiro MD",
+          "journal": "J Am Heart Assoc. 2024;13(2):e034076",
+          "url": "https://www.ahajournals.org/doi/10.1161/JAHA.123.034076"
+        }
+      ]
+    },
+    "l-citrulline-vascular-no": {
+      "title": "L-Citrulline Vascular and NO Enhancement",
+      "papers": [
+        {
+          "title": "Oral L-citrulline supplementation improves erection hardness in men with mild erectile dysfunction",
+          "authors": "Cormio L, De Siati M, Lorusso F, et al.",
+          "journal": "Urology. 2011;77(1):119-122",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21195829/"
+        },
+        {
+          "title": "Mechanisms of L-citrulline on phosphodiesterase 5 in erectile dysfunction intervention",
+          "authors": "Adebayo EA, Afolabi BA, Sanusi K, et al.",
+          "journal": "Food Biosci. 2025;63:105432",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2468227625000432"
+        },
+        {
+          "title": "Development and therapeutic applications of nitric oxide releasing materials to treat erectile dysfunction",
+          "authors": "Burnett AL, Strong TD, Wood DP Jr, et al.",
+          "journal": "Future Sci OA. 2016;2(1):FSO53",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4806684/"
+        }
+      ]
+    },
+    "vitamin-d3-k2-vascular": {
+      "title": "Vitamin D3+K2 Vascular and NO Enhancement",
+      "papers": [
+        {
+          "title": "Effects of vitamins K2 and D3 supplementation in patients with severe coronary artery calcification: a study protocol for a randomised controlled trial",
+          "authors": "Brandenburg VM, Reinartz S, Kaesler N, et al.",
+          "journal": "BMJ Open. 2023;13(7):e071751",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10351276/"
+        },
+        {
+          "title": "Mechanisms Suggesting a Relationship between Vitamin D and Erectile Dysfunction: An Overview",
+          "authors": "Canguven O, Albayrak S",
+          "journal": "Biomolecules. 2023;13(6):930",
+          "url": "https://www.mdpi.com/2218-273X/13/6/930"
+        },
+        {
+          "title": "Vitamin K2—a neglected player in cardiovascular health: a narrative review",
+          "authors": "Hariri E, Kassis N, Iskandar JP, et al.",
+          "journal": "Open Heart. 2021;8(2):e001715",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8596038/"
+        }
+      ]
+    },
+    "magnesium-vascular-no": {
+      "title": "Magnesium Vascular Smooth Muscle Relaxation and NO Enhancement",
+      "papers": [
+        {
+          "title": "The impact of hypomagnesemia on erectile dysfunction in elderly, non-diabetic, stage 3 and 4 chronic kidney disease patients: a prospective cross-sectional study",
+          "authors": "Alzahrani AA, Al-Hakeem MM, Elsaied WMH",
+          "journal": "BMC Nephrol. 2017;18(1):101",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5340248/"
+        },
+        {
+          "title": "Erectile Dysfunction and Magnesium: What's the Connection?",
+          "authors": "Healthline Medical Review",
+          "journal": "Healthline. 2023",
+          "url": "https://www.healthline.com/health/erectile-dysfunction/ed-and-magnesium"
+        },
+        {
+          "title": "The Role of Magnesium in Improving Erectile Function",
+          "authors": "Genesis Lifestyle Medicine",
+          "journal": "Clinical Review. 2024",
+          "url": "https://www.genesislifestylemedicine.com/blog/the-role-of-magnesium-in-improving-erectile-function/"
+        },
+        {
+          "title": "Magnesium and nitric oxide interactions in vascular function",
+          "authors": "Altura BM, Altura BT",
+          "journal": "Magnes Trace Elem. 1991;10(2-4):130-147",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1844547/"
+        }
+      ]
+    },
+    "tadalafil-pde5-inhibition": {
+      "title": "Tadalafil PDE5 Inhibition and Antifibrotic Effects",
+      "papers": [
+        {
+          "title": "Treatment of Peyronie's disease with PDE5 inhibitors: An antifibrotic strategy",
+          "authors": "Gonzalez-Cadavid NF, Rajfer J",
+          "journal": "Nat Rev Urol. 2010;7(4):215-221",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20212515/"
+        },
+        {
+          "title": "Daily low-dose tadalafil may reduce the penile curvature progression rate in patients with acute Peyronie's disease",
+          "authors": "Cocci A, Russo GI, Briganti A, et al.",
+          "journal": "Int J Impot Res. 2023;35(3):256-261",
+          "url": "https://www.nature.com/articles/s41443-022-00651-8"
+        },
+        {
+          "title": "Chronic daily tadalafil prevents the corporal fibrosis and veno-occlusive dysfunction that occurs after cavernosal nerve resection",
+          "authors": "Ferrini MG, Davila HH, Valente EG, et al.",
+          "journal": "BJU Int. 2008;101(2):203-210",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17888043/"
+        },
+        {
+          "title": "Antifibrotic Synergy Between Phosphodiesterase Type 5 Inhibitors and Selective Oestrogen Receptor Modulators in Peyronie's Disease Models",
+          "authors": "Milenkovic U, Ilg MM, Cellek S, et al.",
+          "journal": "Eur Urol. 2019;75(2):329-340",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0302283818307553"
+        }
+      ]
+    }
+  }

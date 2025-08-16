@@ -1,0 +1,117 @@
+{
+    "alk5-receptor-binding": {
+      "title": "ALK5 Receptor Binding in Peyronie's Disease",
+      "papers": [
+        {
+          "title": "Transforming growth factor (TGF)-β type I receptor kinase (ALK5) inhibitor alleviates profibrotic TGF-β1 responses in fibroblasts derived from Peyronie's plaque",
+          "authors": "Piao S, Choi MJ, Tumurbaatar M, Kim WJ, Jin HR, Shin SH, et al.",
+          "journal": "J Sex Med. 2010;7(10):3385-95",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20233292/"
+        },
+        {
+          "title": "Activin Receptor-Like Kinase 5 Inhibitor Attenuates Fibrosis in Fibroblasts Derived from Peyronie's Plaque",
+          "authors": "Jang JH, Ryu JK, Suh JK",
+          "journal": "Korean J Urol. 2012;53(1):44-9",
+          "url": "https://doi.org/10.4111/kju.2012.53.1.44"
+        },
+        {
+          "title": "New insights into the pathogenesis of Peyronie's disease: A narrative review",
+          "authors": "Krakhotkin DV, Chernylovskyi VA, Mottrie A, Greco F, Bugaev RA",
+          "journal": "Chronic Dis Transl Med. 2020;6(3):165-181",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1016/j.cdtm.2020.06.001"
+        }
+      ]
+    },
+    "smad2-3-phosphorylation": {
+      "title": "SMAD2/3 Phosphorylation in Penile Fibrosis",
+      "papers": [
+        {
+          "title": "Activin Receptor-Like Kinase 5 Inhibitor Attenuates Fibrosis in Fibroblasts Derived from Peyronie's Plaque",
+          "authors": "Jang JH, Ryu JK, Suh JK",
+          "journal": "Korean J Urol. 2012;53(1):44-9",
+          "url": "https://doi.org/10.4111/kju.2012.53.1.44"
+        },
+        {
+          "title": "Molecular Mechanisms and Current Pharmacotherapy of Peyronie's Disease: A Review",
+          "authors": "Fu L, Liu F, Li H, Ma L, Wang Z",
+          "journal": "Front Pharmacol. 2021;12:643641",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.643641/full"
+        },
+        {
+          "title": "Intratunical injection of rat-derived bone marrow mesenchymal stem cells prevents fibrosis and is associated with increased Smad7 expression in a rat model of Peyronie's disease",
+          "authors": "Wang W, Ding W, Zhang X, et al.",
+          "journal": "Stem Cell Res Ther. 2022;13:390",
+          "url": "https://doi.org/10.1186/s13287-022-03090-w"
+        }
+      ]
+    },
+    "smad4-complex-formation": {
+      "title": "SMAD4 Complex Formation in Peyronie's Disease",
+      "papers": [
+        {
+          "title": "Inflammation and Fibrosis: Implications for the Pathogenesis of Peyronie's Disease",
+          "authors": "Patel DP, Christensen MB, Hotaling JM, Pastuszak AW",
+          "journal": "World J Urol. 2020;38(2):253-261",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7333524/"
+        },
+        {
+          "title": "An extended bipartite nuclear localization signal in Smad4 is required for its nuclear import and transcriptional activity",
+          "authors": "Xiao Z, Latek R, Lodish HF",
+          "journal": "Oncogene. 2003;22(7):1057-69",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12592392/"
+        },
+        {
+          "title": "Distinct Domain Utilization by Smad3 and Smad4 for Nucleoporin Interaction and Nuclear Import",
+          "authors": "Xu L, Kang Y, Cöl S, Massagué J",
+          "journal": "J Biol Chem. 2003;278(43):42569-77",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0021925820828014"
+        }
+      ]
+    },
+    "nuclear-translocation": {
+      "title": "Nuclear Translocation of SMAD in Peyronie's Disease",
+      "papers": [
+        {
+          "title": "Activin Receptor-Like Kinase 5 Inhibitor Attenuates Fibrosis in Fibroblasts Derived from Peyronie's Plaque",
+          "authors": "Jang JH, Ryu JK, Suh JK",
+          "journal": "Korean J Urol. 2012;53(1):44-9",
+          "url": "https://doi.org/10.4111/kju.2012.53.1.44"
+        },
+        {
+          "title": "New insights into the pathogenesis of Peyronie's disease: A narrative review",
+          "authors": "Krakhotkin DV, Chernylovskyi VA, Mottrie A, Greco F, Bugaev RA",
+          "journal": "Chronic Dis Transl Med. 2020;6(3):165-181",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7451633/"
+        },
+        {
+          "title": "Regulation of intracellular dynamics of Smad4 by its leucine-rich nuclear export signal",
+          "authors": "Watanabe M, Masuyama N, Fukuda M, Nishida E",
+          "journal": "EMBO Rep. 2000;1(2):176-82",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1084261/"
+        }
+      ]
+    },
+    "tgf-beta-increase-fibrosis": {
+      "title": "TGF-β1 3-5 Fold Increase in Peyronie's Disease Fibrosis",
+      "papers": [
+        {
+          "title": "Peyronie's disease is associated with an increase in transforming growth factor-beta protein expression",
+          "authors": "El-Sakka AI, Hassoba HM, Chui RM, Bhatnagar RS, Dahiya R, Lue TF",
+          "journal": "J Urol. 1997;158(4):1391-4",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9302128/"
+        },
+        {
+          "title": "Role of increased transforming growth factor beta protein expression in the pathogenesis of Peyronie's disease",
+          "authors": "Hassoba H, El-Sakka A, Lue T",
+          "journal": "Egypt J Immunol. 2005;12(1):1-8",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16734133/"
+        },
+        {
+          "title": "An animal model of Peyronie's-like condition associated with an increase of transforming growth factor beta mRNA and protein expression",
+          "authors": "El-Sakka AI, Hassan MU, Nunes L, Bhatnagar RS, Yen TS, Lue TF",
+          "journal": "J Urol. 1997;158(6):2284-90",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9366377/"
+        }
+      ]
+    }
+  }

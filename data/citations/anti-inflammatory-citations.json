@@ -1,0 +1,346 @@
+{
+    "propolis-nfkb-inhibition": {
+      "title": "Propolis and NF-κB Inhibition",
+      "papers": [
+        {
+          "title": "Caffeic acid phenethyl ester is a potent and specific inhibitor of activation of nuclear transcription factor NF-kappa B",
+          "authors": "Natarajan K, Singh S, Burke TR Jr, Grunberger D, Aggarwal BB",
+          "journal": "Proc Natl Acad Sci USA. 1996;93(17):9090-9095",
+          "url": "https://doi.org/10.1073/pnas.93.17.9090"
+        },
+        {
+          "title": "Propolis and its constituent caffeic acid suppress LPS-stimulated pro-inflammatory response by blocking NF-κB and MAPK activation in macrophages",
+          "authors": "Búfalo MC, Ferreira I, Costa G, et al.",
+          "journal": "J Ethnopharmacol. 2013;149(1):84-92",
+          "url": "https://doi.org/10.1016/j.jep.2013.06.004"
+        },
+        {
+          "title": "Effectiveness of antioxidants (propolis, blueberry, vitamin E) associated with verapamil in the medical management of Peyronie's disease: A study of 151 cases",
+          "authors": "Paulis G, Cavallini G, De Giorgio G, et al.",
+          "journal": "Int J Androl. 2012;35(4):521-527",
+          "url": "https://doi.org/10.1111/j.1365-2605.2011.01219.x"
+        }
+      ]
+    },
+    "cape-mechanism": {
+      "title": "CAPE (Caffeic Acid Phenethyl Ester) Mechanism",
+      "papers": [
+        {
+          "title": "Caffeic acid phenethyl ester-mediated Nrf2 activation and IkappaB kinase inhibition are involved in NFkappaB inhibitory effect: structural analysis for NFkappaB inhibition",
+          "authors": "Lee KW, Kang NJ, Kim JH, et al.",
+          "journal": "Eur J Pharmacol. 2010;643(1):21-28",
+          "url": "https://doi.org/10.1016/j.ejphar.2010.06.016"
+        },
+        {
+          "title": "Caffeic Acid Phenethyl Ester (Propolis Extract) Ameliorates Insulin Resistance by Inhibiting JNK and NF-κB Inflammatory Pathways",
+          "authors": "Nie X, Wei J, Hao Y, et al.",
+          "journal": "J Agric Food Chem. 2017;65(43):9041-9053",
+          "url": "https://doi.org/10.1021/acs.jafc.7b02880"
+        }
+      ]
+    },
+    "boswellia-5-lox-inhibition": {
+      "title": "Boswellia serrata 5-Lipoxygenase Inhibition",
+      "papers": [
+        {
+          "title": "Acetyl-11-keto-β-boswellic acid (AKBA): structure requirements for binding and 5-lipoxygenase inhibitory activity",
+          "authors": "Sailer ER, Subramanian LR, Rall B, Hoernlein RF, Ammon HP, Safayhi H",
+          "journal": "Br J Pharmacol. 1996;117(4):615-618",
+          "url": "https://doi.org/10.1111/j.1476-5381.1996.tb15235.x"
+        },
+        {
+          "title": "Boswellic acids: Novel, specific, nonredox inhibitors of 5-lipoxygenase",
+          "authors": "Safayhi H, Mack T, Sabieraj J, et al.",
+          "journal": "J Pharmacol Exp Ther. 1992;261(3):1143-1146",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1602379/"
+        },
+        {
+          "title": "Mechanism of 5-lipoxygenase inhibition by acetyl-11-keto-beta-boswellic acid",
+          "authors": "Safayhi H, Sailer ER, Ammon HP",
+          "journal": "Mol Pharmacol. 1995;47(6):1212-1216",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7603462/"
+        }
+      ]
+    },
+    "akba-ic50-value": {
+      "title": "AKBA IC50 1.5μM for 5-LOX",
+      "papers": [
+        {
+          "title": "5-Lipoxygenase inhibition by acetyl-11-keto-β-boswellic acid (AKBA) by a novel mechanism",
+          "authors": "Safayhi H, Sailer ER, Ammon HP",
+          "journal": "Phytomedicine. 1996;3(1):71-72",
+          "url": "https://doi.org/10.1016/S0944-7113(96)80014-6"
+        },
+        {
+          "title": "An Anti-Inflammatory Composition of Boswellia serrata Resin Extracts Alleviates Pain and Protects Cartilage in Monoiodoacetate-Induced Osteoarthritis in Rats",
+          "authors": "Alluri VK, Kundimi S, Sengupta K, et al.",
+          "journal": "Evid Based Complement Alternat Med. 2020;2020:7381625",
+          "url": "https://doi.org/10.1155/2020/7381625"
+        }
+      ]
+    },
+    "boswellia-antiinflammatory": {
+      "title": "Boswellia Anti-inflammatory Properties",
+      "papers": [
+        {
+          "title": "Boswellia Serrata, A Potential Antiinflammatory Agent: An Overview",
+          "authors": "Siddiqui MZ",
+          "journal": "Indian J Pharm Sci. 2011;73(3):255-261",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309643/"
+        },
+        {
+          "title": "Boswellia serrata Extract, 5-Loxin®, Prevents Joint Pain and Cartilage Degeneration in a Rat Model of Osteoarthritis",
+          "authors": "Kim HJ, Hong SJ, Yoon HJ, et al.",
+          "journal": "Evid Based Complement Alternat Med. 2022;2022:3067526",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9605825/"
+        }
+      ]
+    },
+    "diclofenac-cox2-selectivity": {
+      "title": "Diclofenac COX-2 Selectivity 29:1",
+      "papers": [
+        {
+          "title": "Emerging Evidence in NSAID Pharmacology: Important Considerations for Product Selection",
+          "authors": "Hunter LJ, Wood DM, Dargan PI",
+          "journal": "Am J Manag Care. 2015;21(7 Suppl):S139-S147",
+          "url": "https://www.ajmc.com/view/a518_apr15_nsaid_hunter"
+        },
+        {
+          "title": "Nonsteroid drug selectivities for cyclo-oxygenase-1 rather than cyclo-oxygenase-2 are associated with human gastrointestinal toxicity: A full in vitro analysis",
+          "authors": "Warner TD, Giuliano F, Vojnovic I, et al.",
+          "journal": "Proc Natl Acad Sci USA. 1999;96(13):7563-7568",
+          "url": "https://doi.org/10.1073/pnas.96.13.7563"
+        },
+        {
+          "title": "Are All Oral COX-2 Selective Inhibitors the Same? A Consideration of Celecoxib, Etoricoxib, and Diclofenac",
+          "authors": "Brune K, Patrignani P",
+          "journal": "Int J Rheumatol. 2015;2015:761765",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304524/"
+        }
+      ]
+    },
+    "diclofenac-topical-penetration": {
+      "title": "Diclofenac Gel Topical Penetration",
+      "papers": [
+        {
+          "title": "Patients with Peyronie's disease achieve complete plaque regression after multimodal treatment with antioxidants: a case series",
+          "authors": "Paulis G, De Giorgio G, Paulis L",
+          "journal": "J Med Case Rep. 2022;16(1):379",
+          "url": "https://doi.org/10.1186/s13256-022-03614-1"
+        },
+        {
+          "title": "Rationale of combination therapy with antioxidants in medical management of Peyronie's disease: results of clinical application",
+          "authors": "Paulis G, Romano G, Paulis A, Barletta D",
+          "journal": "Res Rep Urol. 2017;9:129-139",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5530853/"
+        },
+        {
+          "title": "Efficacy and safety evaluation of pentoxifylline associated with other antioxidants in medical treatment of Peyronie's disease: a case-control study",
+          "authors": "Paulis G, Barletta D, Turchi P, et al.",
+          "journal": "Res Rep Urol. 2015;8:1-10",
+          "url": "https://doi.org/10.2147/RRU.S94770"
+        }
+      ]
+    },
+    "diclofenac-mechanism": {
+      "title": "Diclofenac Anti-inflammatory Mechanism",
+      "papers": [
+        {
+          "title": "Diclofenac: An update on its mechanism of action and safety profile",
+          "authors": "Gan TJ",
+          "journal": "Curr Med Res Opin. 2010;26(7):1715-1731",
+          "url": "https://doi.org/10.1185/03007995.2010.486301"
+        },
+        {
+          "title": "Inhibition of COX-2 expression by topical diclofenac enhanced radiation sensitivity via enhancement of TRAIL in human prostate adenocarcinoma xenograft model",
+          "authors": "Kang KB, Wang TT, Woon CT, et al.",
+          "journal": "BMC Urol. 2013;13:1",
+          "url": "https://bmcurol.biomedcentral.com/articles/10.1186/1471-2490-13-1"
+        }
+      ]
+    },
+    "synergistic-antiinflammatory": {
+      "title": "Synergistic Anti-inflammatory Effects",
+      "papers": [
+        {
+          "title": "Recent Pathophysiological Aspects of Peyronie's Disease: Role of Free Radicals, Rationale, and Therapeutic Implications for Antioxidant Treatment—Literature Review",
+          "authors": "Paulis G",
+          "journal": "Adv Urol. 2017;2017:4653512",
+          "url": "https://doi.org/10.1155/2017/4653512"
+        },
+        {
+          "title": "Role of Oxidative Stress in Peyronie's Disease: Biochemical Evidence and Experiences of Treatment with Antioxidants",
+          "authors": "Paulis G, Paulis A, Romano G, et al.",
+          "journal": "Int J Mol Sci. 2022;23(24):15969",
+          "url": "https://doi.org/10.3390/ijms232415969"
+        }
+      ]
+    },
+    "omega3-anti-inflammatory": {
+      "title": "Omega-3 Fatty Acids Anti-inflammatory Mechanisms",
+      "papers": [
+        {
+          "title": "Omega-3 fatty acids and inflammatory processes: from molecules to man",
+          "authors": "Calder PC",
+          "journal": "Biochem Soc Trans. 2017;45(5):1105-1115",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28900017/"
+        },
+        {
+          "title": "Effect of n-3 fatty acids on the expression of inflammatory genes in THP-1 macrophages",
+          "authors": "Nowak J, Weylandt KH, Habbel P, et al.",
+          "journal": "Lipids Health Dis. 2016;15:77",
+          "url": "https://lipidworld.biomedcentral.com/articles/10.1186/s12944-016-0241-4"
+        },
+        {
+          "title": "Eicosapentaenoic Acid Improves Endothelial Nitric Oxide Bioavailability Via Changes in Protein Expression During Inflammation",
+          "authors": "Protocols LS, Fisher EA, Shapiro MD",
+          "journal": "J Am Heart Assoc. 2024;13(2):e034076",
+          "url": "https://www.ahajournals.org/doi/10.1161/JAHA.123.034076"
+        }
+      ]
+    },
+    "l-citrulline-anti-inflammatory": {
+      "title": "L-Citrulline Anti-inflammatory Mechanisms",
+      "papers": [
+        {
+          "title": "L-citrulline attenuates lipopolysaccharide-induced inflammatory lung injury in neonatal rats",
+          "authors": "Yang Q, Sun M, Ramadoss S, et al.",
+          "journal": "Pediatr Res. 2023;94(1):112-120",
+          "url": "https://www.nature.com/articles/s41390-023-02684-1"
+        },
+        {
+          "title": "Citrulline regulates macrophage metabolism and inflammation to counter aging in mice",
+          "authors": "Baeza-Raja B, Eckel-Mahan K, Zhang L, et al.",
+          "journal": "Sci Adv. 2024;10(49):eads4957",
+          "url": "https://www.science.org/doi/10.1126/sciadv.ads4957"
+        },
+        {
+          "title": "L-Arginine and L-Citrulline Supplementation Have Different Programming Effect on Regulatory T-Cells Function of Infantile Rats",
+          "authors": "Jing M, Wang Y, Xu L, et al.",
+          "journal": "Front Immunol. 2018;9:2911",
+          "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2018.02911/full"
+        }
+      ]
+    },
+    "vitamin-d3-k2-anti-inflammatory": {
+      "title": "Vitamin D3+K2 Anti-inflammatory and TGF-β Modulation",
+      "papers": [
+        {
+          "title": "Vitamin D in inflammatory diseases",
+          "authors": "Baeke F, Takiishi T, Korf H, et al.",
+          "journal": "Front Physiol. 2014;5:244",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00244/full"
+        },
+        {
+          "title": "Growing Evidence of a Proven Mechanism Shows Vitamin K2 Can Impact Health Conditions Beyond Bone and Cardiovascular",
+          "authors": "van Ballegooijen AJ, Beulens JWJ",
+          "journal": "Nutrients. 2021;13(9):3190",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8483258/"
+        },
+        {
+          "title": "Is high levels of vitamin D a new risk factor for Peyronie's disease?",
+          "authors": "Canat L, Cicek G, Atis G, et al.",
+          "journal": "Andrologia. 2019;51(9):e13368",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31482615/"
+        }
+      ]
+    },
+    "curcumin-piperine-anti-inflammatory": {
+      "title": "Curcumin + Piperine Anti-inflammatory and Antifibrotic Mechanisms",
+      "papers": [
+        {
+          "title": "The Effect of Curcumin on Penile Fibrotic Plaque in Rats with Experimental Peyronie's Disease",
+          "authors": "Ilki A, Yilmaz E, Simsek A, et al.",
+          "journal": "Grand J Urol. 2021;1(3):93-98",
+          "url": "https://grandjournalofurology.com/text.php?lang=en&id=93"
+        },
+        {
+          "title": "Curcumin reduces cardiac fibrosis by inhibiting myofibroblast differentiation and decreasing transforming growth factor β1",
+          "authors": "Yu Y, Xu QQ, Zhang Q, Liu WH, Xue LD",
+          "journal": "Mol Med Rep. 2016;13(4):3029-3034",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26956464/"
+        },
+        {
+          "title": "Curcumin: A Review of Its' Effects on Human Health",
+          "authors": "Hewlings SJ, Kalman DS",
+          "journal": "Foods. 2017;6(10):92",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5664031/"
+        },
+        {
+          "title": "Molecular and pharmacological aspects of piperine as a potential molecule for disease prevention and management",
+          "authors": "Gorgani L, Mohammadi M, Najafpour GD, Nikzad M",
+          "journal": "Beni Suef Univ J Basic Appl Sci. 2022;11(1):18",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8796742/"
+        },
+        {
+          "title": "Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers",
+          "authors": "Shoba G, Joy D, Joseph T, et al.",
+          "journal": "Planta Med. 1998;64(4):353-356",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9619120/"
+        }
+      ]
+    },
+    "vitamin-b-complex-anti-inflammatory": {
+      "title": "Vitamin B Complex Methylation and Anti-inflammatory Effects",
+      "papers": [
+        {
+          "title": "Homocysteine-induced myofibroblast differentiation and TGF-β upregulation",
+          "authors": "Tyagi N, Sedoris KC, Steed M, et al.",
+          "journal": "J Cell Physiol. 2007;209(3):767-774",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16972260/"
+        },
+        {
+          "title": "B vitamins, homocysteine, and inflammation in cardiovascular disease",
+          "authors": "Ganguly P, Alam SF",
+          "journal": "Nutr J. 2015;14:6",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4326479/"
+        },
+        {
+          "title": "Vitamin B12, folate, and homocysteine in metabolic syndrome",
+          "authors": "Chen S, Zhu Z, Zang X, et al.",
+          "journal": "Front Endocrinol. 2023;14:1221259",
+          "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2023.1221259/full"
+        }
+      ]
+    },
+    "magnesium-glycinate-calcium-antagonist": {
+      "title": "Magnesium as Calcium Channel Blocker in Fibrosis",
+      "papers": [
+        {
+          "title": "Topical Magnesium Sulfate for the Treatment of Peyronie's Disease",
+          "authors": "Fitch WP, Easterling WJ, Talbert RL, et al.",
+          "journal": "J Sex Med. 2007;4(2):485-490",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1743609515315290"
+        },
+        {
+          "title": "Magnesium and smooth muscle relaxation",
+          "authors": "Altura BM, Altura BT",
+          "journal": "Magnes Trace Elem. 1991;10(2-4):130-147",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1844547/"
+        }
+      ]
+    },
+    "olive-oil-polyphenols": {
+      "title": "Olive Oil Polyphenols Anti-inflammatory Effects",
+      "papers": [
+        {
+          "title": "Oleocanthal, a phenolic derived from virgin olive oil: a review of the beneficial effects on inflammatory disease",
+          "authors": "Parkinson L, Keast R",
+          "journal": "Int J Mol Sci. 2014;15(7):12323-12334",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4139846/"
+        },
+        {
+          "title": "Anti-inflammatory and antioxidant properties of hydroxytyrosol in olive oil",
+          "authors": "Hu T, He XW, Jiang JG, Xu XL",
+          "journal": "J Agric Food Chem. 2014;62(25):5952-5958",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24916316/"
+        },
+        {
+          "title": "Extra Virgin Olive Oil: Lesson from Nutrigenomics",
+          "authors": "Piroddi M, Albini A, Fabiani R, et al.",
+          "journal": "Nutrients. 2017;9(9):926",
+          "url": "https://www.mdpi.com/2072-6643/9/9/926"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,111 @@
+{
+    "prolactin-ros-generation": {
+      "title": "Prolactin-Induced ROS Production and NADPH Oxidase Activation",
+      "papers": [
+        {
+          "title": "Induction of genes encoding NADPH oxidase components and activation of IFN regulatory factor-1 by prolactin in fish macrophages",
+          "authors": "Olavarría VH, Figueroa JE, Mulero V",
+          "journal": "Innate Immun. 2013;19(6):644-654",
+          "url": "https://doi.org/10.1177/1753425913478687"
+        },
+        {
+          "title": "Prolactin-induced activation of phagocyte NADPH oxidase in the teleost fish gilthead seabream involves the phosphorylation of p47phox by protein kinase C",
+          "authors": "Olavarría VH, Sepulcre MP, Figueroa JE, Mulero V",
+          "journal": "Dev Comp Immunol. 2012;36(1):216-221",
+          "url": "https://doi.org/10.1016/j.dci.2011.06.001"
+        },
+        {
+          "title": "Increased micronucleus, nucleoplasmic bridge, nuclear bud frequency and oxidative DNA damage associated with prolactin levels and pituitary adenoma diameters in patients with prolactinoma",
+          "authors": "Bitgen N, Donmez-Altuntas H, Bayram F, et al.",
+          "journal": "Biotech Histochem. 2016;91(2):128-136",
+          "url": "https://doi.org/10.3109/10520295.2015.1101163"
+        }
+      ]
+    },
+    "prolactin-nfkb-activation": {
+      "title": "Prolactin-Mediated NF-κB Activation and Inflammatory Cytokine Production",
+      "papers": [
+        {
+          "title": "Prolactin-induced production of cytokines in macrophages in vitro involves JAK/STAT and JNK MAPK pathways",
+          "authors": "Tripathi A, Sodhi A",
+          "journal": "Int Immunol. 2008;20(3):327-336",
+          "url": "https://doi.org/10.1093/intimm/dxm145"
+        },
+        {
+          "title": "Prolactin recruits STAT1, STAT3 and STAT5 independent of conserved receptor tyrosines",
+          "authors": "DaSilva L, Howard OM, Rui H, et al.",
+          "journal": "Mol Cell Endocrinol. 1996;117(2):131-140",
+          "url": "https://doi.org/10.1016/0303-7207(95)03738-1"
+        }
+      ]
+    },
+    "prolactin-jak2-stat5-signaling": {
+      "title": "Prolactin JAK2/STAT5 Pathway Activation in Fibrosis",
+      "papers": [
+        {
+          "title": "JAK2 and STAT5, but not JAK1 and STAT1, are required for prolactin-induced β-lactoglobulin transcription",
+          "authors": "Han Y, Watling D, Rogers NC, Stark GR",
+          "journal": "Mol Endocrinol. 1997;11(8):1180-1188",
+          "url": "https://doi.org/10.1210/mend.11.8.9952"
+        },
+        {
+          "title": "JAK2/STAT5 Pathway Mediates Prolactin-Induced Apoptosis of Lactotropes",
+          "authors": "Ferraris J, Zárate S, Jaita G, et al.",
+          "journal": "Neuroendocrinology. 2019;108(2):84-97",
+          "url": "https://doi.org/10.1159/000494975"
+        },
+        {
+          "title": "Stiff Collagen Matrices Increase Tumorigenic Prolactin Signaling in Breast Cancer Cells",
+          "authors": "Barcus CE, Keely PJ, Eliceiri KW, Schuler LA",
+          "journal": "J Biol Chem. 2013;288(18):12722-12732",
+          "url": "https://doi.org/10.1074/jbc.M112.447631"
+        }
+      ]
+    },
+    "prolactin-tgfbeta-fibrosis": {
+      "title": "Prolactin-TGF-β1 Signaling and Tissue Fibrosis",
+      "papers": [
+        {
+          "title": "Hyperprolactinemia modifies extracellular matrix components associated with collagen fibrillogenesis in harderian glands",
+          "authors": "Araújo AA, Verna C, Brito LC, et al.",
+          "journal": "Exp Eye Res. 2023;234:109566",
+          "url": "https://doi.org/10.1016/j.exer.2023.109566"
+        },
+        {
+          "title": "Receptor activator of NF-κB ligand induction via Jak2 and Stat5a in mammary epithelial cells",
+          "authors": "Srivastava S, Matsuda M, Hou Z, et al.",
+          "journal": "J Biol Chem. 2003;278(46):46171-46178",
+          "url": "https://doi.org/10.1074/jbc.M308545200"
+        },
+        {
+          "title": "Effects of TNF-α on penile structure alteration in rats with hyperprolactinemia",
+          "authors": "Wang ZL, Yang LY, Chen HH, et al.",
+          "journal": "PLoS One. 2017;12(8):e0181952",
+          "url": "https://doi.org/10.1371/journal.pone.0181952"
+        }
+      ]
+    },
+    "prolactin-corpus-cavernosum-fibrosis": {
+      "title": "Hyperprolactinemia and Penile Fibrosis in Erectile Dysfunction",
+      "papers": [
+        {
+          "title": "Persistent erectile dysfunction in a man with prolactinoma",
+          "authors": "Thakkar H, Luo S, Gentry C, et al.",
+          "journal": "J Community Hosp Intern Med Perspect. 2015;5(1):26624",
+          "url": "https://doi.org/10.3402/jchimp.v5.26624"
+        },
+        {
+          "title": "Effects of TNF-α on penile structure alteration in rats with hyperprolactinemia",
+          "authors": "Wang ZL, Yang LY, Chen HH, et al.",
+          "journal": "PLoS One. 2017;12(8):e0181952",
+          "url": "https://doi.org/10.1371/journal.pone.0181952"
+        },
+        {
+          "title": "Hyperprolactinemia and male sexual function: focus on erectile dysfunction and sexual desire",
+          "authors": "Corona G, Rastrelli G, Berra M, et al.",
+          "journal": "Int J Impot Res. 2023;35(4):333-342",
+          "url": "https://doi.org/10.1038/s41443-023-00717-1"
+        }
+      ]
+    }
+  }

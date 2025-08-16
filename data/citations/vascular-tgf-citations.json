@@ -1,0 +1,149 @@
+{
+  "pentoxifylline": {
+    "title": "Pentoxifylline in Peyronie's Disease",
+    "papers": [
+      {
+        "title": "Pentoxifylline attenuates transforming growth factor-β1-stimulated collagen deposition and elastogenesis in human tunica albuginea-derived fibroblasts",
+        "authors": "Shindel AW, Lin G, Ning H, et al.",
+        "journal": "J Sex Med. 2010;7(6):2077-2085",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543151/"
+      },
+      {
+        "title": "A double-blind placebo-controlled study of the efficacy and safety of pentoxifylline in early chronic Peyronie's disease",
+        "authors": "Safarinejad MR, Asgari MA, Hosseini SY, Dadkhah F",
+        "journal": "BJU Int. 2010;106(2):240-248",
+        "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2009.09041.x"
+      },
+      {
+        "title": "Efficacy and safety evaluation of pentoxifylline associated with other antioxidants in medical treatment of Peyronie's disease",
+        "authors": "Paulis G, Cavallini G, Giorgio GD, et al.",
+        "journal": "Res Rep Urol. 2015;7:1-10",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4706125/"
+      }
+    ]
+  },
+  "tgf-beta": {
+    "title": "TGF-β1 in Peyronie's Disease",
+    "papers": [
+      {
+        "title": "Alterations in the transforming growth factor (TGF)-beta pathway as a potential factor in the pathogenesis of Peyronie's disease",
+        "authors": "Haag SM, Hauck EW, Szardening-Kirchner C, et al.",
+        "journal": "Eur Urol. 2007;51:255-261",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16734133/"
+      },
+      {
+        "title": "Peyronie's disease is associated with an increase in transforming growth factor-beta protein expression",
+        "authors": "El-Sakka AI, Hassoba HM, Pillarisetty RJ, et al.",
+        "journal": "J Urol. 1997;158:1391-1394",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16734133/"
+      }
+    ]
+  },
+  "smad-signaling": {
+    "title": "SMAD Signaling in Fibrosis",
+    "papers": [
+      {
+        "title": "Effect of SMAD7 gene overexpression on TGF-β1-induced profibrotic responses in fibroblasts derived from Peyronie's plaque",
+        "authors": "Ryu JK, Kim WJ, Choi MJ, et al.",
+        "journal": "Asian J Androl. 2013;15(5):640-645",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25532569/"
+      },
+      {
+        "title": "TGF-β/SMAD Pathway and Its Regulation in Hepatic Fibrosis",
+        "authors": "Xu F, Liu C, Zhou D, Zhang L",
+        "journal": "J Histochem Cytochem. 2016;64(3):157-167",
+        "url": "https://journals.sagepub.com/doi/10.1369/0022155415627681"
+      }
+    ]
+  },
+  "silymarin": {
+    "title": "Silymarin Anti-fibrotic Effects",
+    "papers": [
+      {
+        "title": "Silymarin ameliorates peritoneal fibrosis by inhibiting the TGF-β/Smad signaling pathway",
+        "authors": "Li X, Wang Y, Ma M, et al.",
+        "journal": "Naunyn Schmiedebergs Arch Pharmacol. 2023;396:2379-2392",
+        "url": "https://link.springer.com/article/10.1007/s00210-023-02450-4"
+      },
+      {
+        "title": "Enhancement of Silymarin Anti-fibrotic Effects by Complexation With Hydroxypropyl and Randomly Methylated β-Cyclodextrins",
+        "authors": "Ghicavii V, Pogonea V, et al.",
+        "journal": "Front Pharmacol. 2018;9:883",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2018.00883/full"
+      }
+    ]
+  },
+  "l-carnitine": {
+    "title": "L-Carnitine in Peyronie's Disease",
+    "papers": [
+      {
+        "title": "Acetyl-L-carnitine vs tamoxifen in the oral therapy of Peyronie's disease: a preliminary report",
+        "authors": "Biagiotti G, Cavallini G",
+        "journal": "BJU Int. 2001;88(1):63-67",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11446848/"
+      },
+      {
+        "title": "L-carnitine/L-acetyl-carnitine in the treatment of Peyronie's disease",
+        "authors": "Cavallini G, Biagiotti G, Koverech A, Vitali G",
+        "journal": "BJU Int. 2002;89(9):895-900",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1046/j.1464-410X.2002.02738.x"
+      }
+    ]
+  },
+  "ginkgo-biloba": {
+    "title": "Ginkgo Biloba and Vascular Function",
+    "papers": [
+      {
+        "title": "Ginkgo biloba extract EGb 761 increases endothelial nitric oxide production in vitro and in vivo",
+        "authors": "Koltermann A, Hartkorn A, Koch E, et al.",
+        "journal": "Cell Mol Life Sci. 2007;64:1715-1722",
+        "url": "https://link.springer.com/article/10.1007/s00018-007-7085-z"
+      },
+      {
+        "title": "Ginkgo biloba extract improves coronary artery circulation in patients with coronary artery disease",
+        "authors": "Wu YZ, Li SQ, Zu XG, et al.",
+        "journal": "Phytother Res. 2008;22(6):734-739",
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2335"
+      }
+    ]
+  },
+  "bilberry": {
+    "title": "Bilberry and Vascular Health",
+    "papers": [
+      {
+        "title": "Bilberry anthocyanin-rich extract alters expression of genes related to atherosclerosis development in aorta",
+        "authors": "Mauray A, Felgines C, Morand C, et al.",
+        "journal": "Nutr Metab Cardiovasc Dis. 2010;20(9):634-641",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0939475310001122"
+      },
+      {
+        "title": "The Effect of Anthocyanin-Rich Foods or Extracts on Vascular Function in Adults",
+        "authors": "Fairlie-Jones L, Davison K, Fromentin E, Hill AM",
+        "journal": "Nutrients. 2017;9(8):908",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5579701/"
+      }
+    ]
+  },
+  "eNOS": {
+    "title": "Endothelial Nitric Oxide Synthase",
+    "papers": [
+      {
+        "title": "eNOS uncoupling in cardiovascular diseases",
+        "authors": "Förstermann U, Münzel T",
+        "journal": "Circulation. 2006;113(13):1708-1714",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16585403/"
+      }
+    ]
+  },
+  "ppar-gamma": {
+    "title": "PPAR-γ and Fibrosis",
+    "papers": [
+      {
+        "title": "The PPARγ agonist pioglitazone prevents TGF-β induced renal fibrosis by repressing EGR-1 and STAT3",
+        "authors": "Mózes MM, et al.",
+        "journal": "BMC Nephrol. 2019;20:245",
+        "url": "https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-019-1431-x"
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+    "ikb-degradation": {
+      "title": "IκBα Degradation and Proteasomal Processing",
+      "papers": [
+        {
+          "title": "Ubiquitin-dependent degradation of IκBα is mediated by a ubiquitin ligase Skp1/Cul 1/F-box protein FWD1",
+          "authors": "Yaron A, Hatzubai A, Davis M, Lavon I, Amit S, Manning AM, Andersen JS, Mann M, Mercurio F, Ben-Neriah Y",
+          "journal": "Proc Natl Acad Sci U S A. 1998;95(13):7601-7606",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.95.13.7601"
+        },
+        {
+          "title": "Phosphorylation-induced ubiquitination and degradation of IκBα",
+          "authors": "Chen Z, Hagler J, Palombella VJ, Melandri F, Scherer D, Ballard D, Maniatis T",
+          "journal": "Genes Dev. 1995;9(13):1586-1597",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1551980/"
+        },
+        {
+          "title": "The ubiquitin-proteasome pathway is required for processing the NF-kappa B1 precursor protein and the activation of NF-kappa B",
+          "authors": "Palombella VJ, Rando OJ, Goldberg AL, Maniatis T",
+          "journal": "Cell. 1994;78(5):773-785",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8087845/"
+        }
+      ]
+    },
+    "p65-nuclear-translocation": {
+      "title": "p65 Nuclear Translocation and Import Mechanisms",
+      "papers": [
+        {
+          "title": "Mechanisms of NF-κB p65 and strategies for therapeutic manipulation",
+          "authors": "Giridharan S, Srinivasan M",
+          "journal": "J Inflamm Res. 2018;11:407-419",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6217131/"
+        },
+        {
+          "title": "Nuclear Translocation of p65 is Controlled by Sec6 via the Degradation of IκBα",
+          "authors": "Tanaka T, Iino M",
+          "journal": "J Cell Physiol. 2016;231(3):719-730",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/jcp.25122"
+        },
+        {
+          "title": "Stimulated nuclear translocation of NF-κB and shuttling differentially depend on dynein and the dynactin complex",
+          "authors": "Shrum CK, Defrancisco D, Meffert MK",
+          "journal": "Proc Natl Acad Sci U S A. 2009;106(8):2647-2652",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.0806677106"
+        }
+      ]
+    },
+    "proinflammatory-gene-expression": {
+      "title": "Pro-inflammatory Gene Transcription",
+      "papers": [
+        {
+          "title": "NF-κB: a key role in inflammatory diseases",
+          "authors": "Tak PP, Firestein GS",
+          "journal": "J Clin Invest. 2001;107(1):7-11",
+          "url": "https://www.jci.org/articles/view/11830"
+        },
+        {
+          "title": "The Nuclear Factor NF-κB Pathway in Inflammation",
+          "authors": "Lawrence T",
+          "journal": "Cold Spring Harb Perspect Biol. 2009;1(6):a001651",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882124/"
+        },
+        {
+          "title": "NF-κB signaling in inflammation",
+          "authors": "Liu T, Zhang L, Joo D, Sun SC",
+          "journal": "Signal Transduct Target Ther. 2017;2:17023",
+          "url": "https://www.nature.com/articles/sigtrans201723"
+        }
+      ]
+    },
+    "tnf-cytokine-release": {
+      "title": "TNF-α, IL-1β, and IL-6 Cytokine Production",
+      "papers": [
+        {
+          "title": "Hall of Fame among Pro-inflammatory Cytokines: Interleukin-6 Gene and Its Transcriptional Regulation Mechanisms",
+          "authors": "Tanaka T, Narazaki M, Kishimoto T",
+          "journal": "Front Immunol. 2016;7:604",
+          "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2016.00604/full"
+        },
+        {
+          "title": "IL-6 Induces NF-κB Activation in the Intestinal Epithelia",
+          "authors": "Wang L, Walia B, Evans J, Gewirtz AT, Merlin D, Sitaraman SV",
+          "journal": "J Immunol. 2003;171(6):3194-3201",
+          "url": "https://journals.aai.org/jimmunol/article/171/6/3194/71412/"
+        },
+        {
+          "title": "IL-10, IL-6, and TNF-α: Central factors in the altered cytokine network of uremia",
+          "authors": "Stenvinkel P, Ketteler M, Johnson RJ, et al.",
+          "journal": "Kidney Int. 2005;67(4):1216-1233",
+          "url": "https://www.kidney-international.org/article/S0085-2538(15)50578-4/fulltext"
+        }
+      ]
+    },
+    "cox2-expression": {
+      "title": "COX-2 Induction and Prostaglandin Synthesis",
+      "papers": [
+        {
+          "title": "Nitric oxide induces expression of cyclooxygenase-2 in mouse skin through activation of NF-κB",
+          "authors": "Chun KS, Cha HH, Shin JW, Na HK, Park KK, Chung WY, Surh YJ",
+          "journal": "Carcinogenesis. 2004;25(3):445-454",
+          "url": "https://academic.oup.com/carcin/article/25/3/445/2390628"
+        },
+        {
+          "title": "Involvement of NF-κB in the regulation of cyclooxygenase-2 protein expression in LPS-stimulated J774 macrophages",
+          "authors": "D'Acquisto F, Iuvone T, Rombola L, Sautebin L, Di Rosa M, Carnuccio R",
+          "journal": "FEBS Lett. 1997;418(1-2):175-178",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9105400/"
+        },
+        {
+          "title": "Aciculatin inhibits lipopolysaccharide-mediated inducible nitric oxide synthase and cyclooxygenase-2 expression via suppressing NF-κB and JNK/p38 MAPK activation pathways",
+          "authors": "Pan MH, Lai CS, Wang YJ, Ho CT",
+          "journal": "J Biomed Sci. 2011;18:28",
+          "url": "https://jbiomedsci.biomedcentral.com/articles/10.1186/1423-0127-18-28"
+        }
+      ]
+    },
+    "inos-expression": {
+      "title": "iNOS Expression and Nitric Oxide Production",
+      "papers": [
+        {
+          "title": "Absence of inducible nitric oxide synthase modulates early reperfusion-induced NF-κB and AP-1 activation and enhances myocardial damage",
+          "authors": "Zingarelli B, Hake PW, Yang Z, O'Connor M, Denenberg A, Wong HR",
+          "journal": "FASEB J. 2002;16(3):327-342",
+          "url": "https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.01-0533com"
+        },
+        {
+          "title": "The role of nitric oxide in prostaglandin biology; update",
+          "authors": "Kim SF",
+          "journal": "Nitric Oxide. 2011;25(3):255-264",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3190648/"
+        },
+        {
+          "title": "Biphasic Regulation of NF-κB Activity Underlies the Pro- and Anti-Inflammatory Actions of Nitric Oxide",
+          "authors": "Connelly L, Palacios-Callender M, Ameixa C, Moncada S, Hobbs AJ",
+          "journal": "J Immunol. 2001;166(6):3873-3881",
+          "url": "https://journals.aai.org/jimmunol/article/166/6/3873/70451/"
+        }
+      ]
+    },
+    "ros-induced-activation": {
+      "title": "ROS-Mediated NF-κB Activation",
+      "papers": [
+        {
+          "title": "Crosstalk of reactive oxygen species and NF-κB signaling",
+          "authors": "Morgan MJ, Liu ZG",
+          "journal": "Cell Res. 2011;21(1):103-115",
+          "url": "https://www.nature.com/articles/cr2010178"
+        },
+        {
+          "title": "NF-κB in Oxidative Stress",
+          "authors": "Lingappan K",
+          "journal": "Curr Opin Toxicol. 2018;7:81-86",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5978768/"
+        },
+        {
+          "title": "Reactive Oxygen Species in Metabolic and Inflammatory Signaling",
+          "authors": "Forrester SJ, Kikuchi DS, Hernandes MS, Xu Q, Griendling KK",
+          "journal": "Circ Res. 2018;122(6):877-902",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5926825/"
+        }
+      ]
+    },
+    "ikk-phosphorylation": {
+      "title": "IKK Complex Activation and Phosphorylation",
+      "papers": [
+        {
+          "title": "The IκB kinase complex in NF-κB regulation and beyond",
+          "authors": "Israel A",
+          "journal": "EMBO Rep. 2010;11(1):23-29",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2816623/"
+        },
+        {
+          "title": "Elevated pre-activation basal level of nuclear NF-κB in native macrophages accelerates LPS-induced translocation of cytosolic NF-κB into the cell nucleus",
+          "authors": "Bagaev AV, Garaeva AY, Lebedeva ES, et al.",
+          "journal": "Sci Rep. 2019;9(1):4563",
+          "url": "https://www.nature.com/articles/s41598-018-36052-5"
+        },
+        {
+          "title": "Stepwise phosphorylation of p65 promotes NF-κB activation and NK cell responses during target cell recognition",
+          "authors": "Zhou X, Yu J, Cheng X, et al.",
+          "journal": "Nat Commun. 2016;7:11686",
+          "url": "https://www.nature.com/articles/ncomms11686"
+        }
+      ]
+    },
+    "ubiquitination-proteasome": {
+      "title": "Ubiquitination and Proteasomal Degradation",
+      "papers": [
+        {
+          "title": "Ubiquitination and Degradation of the Inhibitors of NF-κB",
+          "authors": "Kanarek N, Ben-Neriah Y",
+          "journal": "Cold Spring Harb Perspect Biol. 2010;2(2):a000166",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2828279/"
+        },
+        {
+          "title": "Ubiquitin Signaling in the NF-κB Pathway",
+          "authors": "Chen ZJ",
+          "journal": "Nat Cell Biol. 2005;7(8):758-765",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1551980/"
+        },
+        {
+          "title": "Interplay between proteasome inhibitors and NF-κB pathway in leukemia and lymphoma",
+          "authors": "Soleimani A, Jalili-Nik M, Avan A, et al.",
+          "journal": "Cell Commun Signal. 2024;22(1):99",
+          "url": "https://biosignaling.biomedcentral.com/articles/10.1186/s12964-023-01433-5"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,49 @@
+{
+    "microtrauma": {
+        "title": "Penile Microtrauma and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Understanding the cellular basis and pathophysiology of Peyronie's disease to optimize treatment for erectile dysfunction",
+                "authors": "Campbell DJW, Bennett N, Gonzalez DC",
+                "journal": "Transl Androl Urol. 2017;6(1):46-59",
+                "url": "https://tau.amegroups.org/article/view/12563/html"
+            },
+            {
+                "title": "Superficial Tunica Albuginea Rupture as Initial Starting Point of Peyronie's Disease: A Topic for Interdisciplinary Consideration",
+                "authors": "Herwig R, Sansalone S",
+                "journal": "Biomed Res Int. 2015;2015:751372",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4310490/"
+            },
+            {
+                "title": "Biomechanical analysis of penile erections: penile buckling behaviour under axial loading and radial compression",
+                "authors": "Timm RW, Elkin EB, Rehman J, Goldstein I",
+                "journal": "BJU Int. 2008;102(1):76-84",
+                "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2008.07569.x"
+            }
+        ]
+    },
+
+    "endothelial-damage": {
+        "title": "Endothelial Damage and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Structural and functional abnormalities of penile cavernous endothelial cells result in erectile dysfunction at experimental autoimmune prostatitis rat",
+                "authors": "Lu Y, Wang X, Feng J, et al.",
+                "journal": "J Inflamm (Lond). 2019;16:20",
+                "url": "https://journal-inflammation.biomedcentral.com/articles/10.1186/s12950-019-0224-0"
+            },
+            {
+                "title": "Endothelial Dysfunction in Erectile Dysfunction: Role of the Endothelium in Erectile Physiology and Disease",
+                "authors": "Bivalacqua TJ, Usta MF, Champion HC, Kadowitz PJ, Hellstrom WJ",
+                "journal": "J Androl. 2003;24(S6):S17-S37",
+                "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/j.1939-4640.2003.tb02743.x"
+            },
+            {
+                "title": "Relationship between oxidative stress and erectile function",
+                "authors": "Jeremy JY, Angelini GD, Khan M, et al.",
+                "journal": "Mol Cell Biochem. 2000;208(1-2):89-98",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29041845/"
+            }
+        ]
+    }
+}

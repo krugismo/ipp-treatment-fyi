@@ -1,0 +1,337 @@
+{
+    "tnf-alpha-308ga": {
+        "title": "TNF-α -308G/A Polymorphism and Oxidative Stress",
+        "papers": [
+            {
+                "title": "TNF-α gene polymorphisms and expression",
+                "authors": "Elahi MM, Asotra K, Matata BM, Mastana SS",
+                "journal": "SpringerPlus. 2016;5(1):1425",
+                "url": "https://springerplus.springeropen.com/articles/10.1186/s40064-016-3197-y"
+            },
+            {
+                "title": "Role of Oxidants in NF-κB Activation and TNF-α Gene Transcription Induced by Hypoxia and Endotoxin",
+                "authors": "Chandel NS, Trzyna WC, McClintock DS, Schumacker PT",
+                "journal": "J Immunol. 2000;165(2):1013-1021",
+                "url": "https://journals.aai.org/jimmunol/article/165/2/1013/32935/"
+            },
+            {
+                "title": "Tumour Necrosis Factor Gene Polymorphism and Disease Prevalence",
+                "authors": "Hajeer AH, Hutchinson IV",
+                "journal": "Scand J Immunol. 2001;53(6):568-76",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7169614/"
+            }
+        ]
+    },
+
+    "il6-174gc": {
+        "title": "IL-6 -174G/C Polymorphism and Inflammatory Oxidative Stress",
+        "papers": [
+            {
+                "title": "Infectious diseases, IL6 -174G>C polymorphism, and human development",
+                "authors": "MacMurray J, Comings DE, Napolioni V",
+                "journal": "Brain Behav Immun. 2014;36:200-206",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0889159115004729"
+            },
+            {
+                "title": "Influence of the IL-6 -572C>G polymorphism on inflammatory markers according to cigarette smoking in Korean healthy men",
+                "authors": "Shin KK, Jang Y, Koh SJ, et al.",
+                "journal": "Cytokine. 2007;39(2):116-122",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/17689974/"
+            },
+            {
+                "title": "IL-6 and HSPA1A Gene Polymorphisms May Influence the Levels of the Inflammatory and Oxidative Stress Parameters",
+                "authors": "Pawlowska M, Piotrowska A, Grzegrzolka J, et al.",
+                "journal": "Int J Mol Sci. 2022;23(13):7042",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9265512/"
+            }
+        ]
+    },
+
+    "tlr4-polymorphisms": {
+        "title": "TLR4 Asp299Gly and Thr399Ile Polymorphisms in Oxidative Response",
+        "papers": [
+            {
+                "title": "Toll-like receptor 4 Asp299Gly and Thr399Ile polymorphisms: New data and a meta-analysis",
+                "authors": "Zidi S, Sghaier I, Gazouani E, et al.",
+                "journal": "BMC Gastroenterol. 2014;14:206",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4279599/"
+            },
+            {
+                "title": "The Toll-like receptor 4 polymorphism Asp299Gly but not Thr399Ile influences TLR4 signaling and function",
+                "authors": "Long H, O'Connor BP, Zemans RL, et al.",
+                "journal": "PLoS One. 2014;9(4):e93550",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/24695807/"
+            },
+            {
+                "title": "Single nucleotide polymorphisms of Toll-like receptors and susceptibility to infectious disease",
+                "authors": "Schröder NW, Schumann RR",
+                "journal": "Lancet Infect Dis. 2005;5(3):156-164",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S1473309905013083"
+            }
+        ]
+    },
+
+    "hla-drb1-oxidative": {
+        "title": "HLA-DRB1 Shared Epitope and Oxidative Stress Susceptibility",
+        "papers": [
+            {
+                "title": "HLA-DRB1 allelic epitopes that associate with autoimmune disease risk or protection activate reciprocal macrophage polarization",
+                "authors": "Jiang L, Yin J, Ye L, et al.",
+                "journal": "Sci Rep. 2021;11(1):2599",
+                "url": "https://www.nature.com/articles/s41598-021-82195-3"
+            },
+            {
+                "title": "The rheumatoid arthritis shared epitope increases cellular susceptibility to oxidative stress by antagonizing an adenosine-mediated anti-oxidative pathway",
+                "authors": "Ling S, Li Z, Borschukova O, et al.",
+                "journal": "Arthritis Res Ther. 2007;9(1):R5",
+                "url": "https://link.springer.com/article/10.1007/s12026-016-8817-7"
+            },
+            {
+                "title": "HLA-dependent autoantibodies against post-translationally modified collagen type II in type 1 diabetes mellitus",
+                "authors": "Strollo R, Vinci C, Napoli N, et al.",
+                "journal": "Diabetologia. 2013;56(3):563-572",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23160643/"
+            }
+        ]
+    },
+
+    "hla-b27-inflammation": {
+        "title": "HLA-B27 and Inflammatory Stress Response",
+        "papers": [
+            {
+                "title": "The ramifications of HLA-B27",
+                "authors": "Bowness P",
+                "journal": "J Rheumatol. 2002;29(12):2420-2425",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1079257/"
+            },
+            {
+                "title": "HLA-B27 Syndromes",
+                "authors": "Wenker KJ, Quint JM",
+                "journal": "StatPearls. 2023",
+                "url": "https://www.ncbi.nlm.nih.gov/books/NBK551523/"
+            },
+            {
+                "title": "Causes and consequences of endoplasmic reticulum stress in rheumatic disease",
+                "authors": "Navid F, Colbert RA",
+                "journal": "Nat Rev Rheumatol. 2017;13(1):25-40",
+                "url": "https://www.geneticlifehacks.com/hla-b27-genetic-variants-that-increase-susceptibility-to-autoimmune-diseases/"
+            }
+        ]
+    },
+
+    "nfkb-oxidative-activation": {
+        "title": "NF-κB Polymorphisms and ROS-Mediated Activation",
+        "papers": [
+            {
+                "title": "NF-κB and Inflammation",
+                "authors": "Lawrence T",
+                "journal": "Cold Spring Harb Perspect Biol. 2009;1(4):a001651",
+                "url": "https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/protein-biology/protein-expression/nf-b-and-inflammation"
+            },
+            {
+                "title": "Nuclear factor kappa-light-chain-enhancer of activated B cells",
+                "authors": "Sen R, Baltimore D",
+                "journal": "Cell. 1986;46(5):705-716",
+                "url": "https://en.wikipedia.org/wiki/NF-%CE%BAB"
+            },
+            {
+                "title": "NF-κB signaling in inflammation",
+                "authors": "Liu T, Zhang L, Joo D, Sun SC",
+                "journal": "Signal Transduct Target Ther. 2017;2:17023",
+                "url": "https://www.nature.com/articles/6364147"
+            }
+        ]
+    },
+
+    "covid19-oxidative-stress": {
+        "title": "SARS-CoV-2 Infection and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Involvement of Oxidative Stress and the Innate Immune System in SARS-CoV-2 Infection",
+                "authors": "Suhail S, Zajac J, Fossum C, et al.",
+                "journal": "Clin Transl Med. 2020;10(2):e39",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8005963/"
+            },
+            {
+                "title": "The role of oxidative stress in the pathogenesis of infections with coronaviruses",
+                "authors": "Gain C, Song S, Angtuaco T, Satta S, Kelesidis T",
+                "journal": "Front Microbiol. 2023;13:1111930",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9880066/"
+            },
+            {
+                "title": "SARS-CoV-2 infection and oxidative stress: Pathophysiological insight into thrombosis and therapeutic opportunities",
+                "authors": "Alam W",
+                "journal": "Cytokine Growth Factor Rev. 2021;63:44-57",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1359610121000800"
+            }
+        ]
+    },
+
+    "bacterial-sepsis-oxidative": {
+        "title": "Bacterial Sepsis and Oxidative Stress Response",
+        "papers": [
+            {
+                "title": "Role of Oxidative Stress and Mitochondrial Dysfunction in Sepsis and Potential Therapies",
+                "authors": "Mantzarlis K, Tsolaki V, Zakynthinos E",
+                "journal": "Oxid Med Cell Longev. 2017;2017:5985209",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5585571/"
+            },
+            {
+                "title": "Exploring the role of antioxidants in sepsis-associated oxidative stress: a comprehensive review",
+                "authors": "Liu X, Zhang Y, Wang L, et al.",
+                "journal": "Front Cell Infect Microbiol. 2024;14:1348713",
+                "url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1348713/full"
+            },
+            {
+                "title": "NF-κB activation as a pathological mechanism of septic shock and inflammation",
+                "authors": "Liu SF, Malik AB",
+                "journal": "Am J Physiol Lung Cell Mol Physiol. 2006;290(4):L622-L645",
+                "url": "https://journals.physiology.org/doi/full/10.1152/ajplung.00477.2005"
+            }
+        ]
+    },
+
+    "viral-infections-ros": {
+        "title": "Viral Infections and ROS Production",
+        "papers": [
+            {
+                "title": "Effects of oxidative stress on viral infections: an overview",
+                "authors": "Nadhan R, Patra D, Krishnan N, et al.",
+                "journal": "npj Viruses. 2025;3:110",
+                "url": "https://www.nature.com/articles/s44298-025-00110-3"
+            },
+            {
+                "title": "Redox regulation of the immune response",
+                "authors": "Morris G, Gevezova M, Sarafian V, Maes M",
+                "journal": "Cell Mol Immunol. 2022;19(10):1079-1101",
+                "url": "https://www.nature.com/articles/s41423-022-00902-0"
+            },
+            {
+                "title": "Oxidative Stress in Infection and Consequent Disease",
+                "authors": "Ivanov AV, Bartosch B, Isaguliants MG",
+                "journal": "Oxid Med Cell Longev. 2017;2017:3496043",
+                "url": "https://www.hindawi.com/journals/omcl/2017/3496043/"
+            }
+        ]
+    },
+
+    "uti-oxidative-stress": {
+        "title": "Urinary Tract Infections and Oxidative Stress",
+        "papers": [
+            {
+                "title": "The Effects of Oxidative Stress in Urinary Tract Infection",
+                "authors": "Kurutas EB, Ciragil P, Gul M, Kilinc M",
+                "journal": "Mediators Inflamm. 2005;2005(4):242-244",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1526480/"
+            },
+            {
+                "title": "Innate immunity and urinary tract infection",
+                "authors": "Sivick KE, Mobley HLT",
+                "journal": "Semin Nephrol. 2010;30(2):147-160",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6908784/"
+            },
+            {
+                "title": "The innate immune response during urinary tract infection and pyelonephritis",
+                "authors": "Spencer JD, Schwaderer AL, Becknell B, Watson J, Hains DS",
+                "journal": "Pediatr Nephrol. 2014;29(7):1139-1149",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3800267/"
+            }
+        ]
+    },
+
+    "male-urogenital-infections": {
+        "title": "Male Urogenital Infections and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Role of oxidative stress, infection and inflammation in male infertility",
+                "authors": "Azenabor A, Ekun AO, Akinloye O",
+                "journal": "Andrologia. 2015;47(10):1097-1111",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30569652/"
+            },
+            {
+                "title": "Seminal oxidative stress in patients with chronic prostatitis",
+                "authors": "Pasqualotto FF, Sharma RK, Potts JM, et al.",
+                "journal": "Urology. 2000;55(6):881-885",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/10840100"
+            },
+            {
+                "title": "The immune responses to different Uropathogens call individual interventions for bladder infection",
+                "authors": "Wang Z, Chen Q, Zhang Y, et al.",
+                "journal": "Front Immunol. 2022;13:953354",
+                "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.953354/full"
+            }
+        ]
+    },
+
+    "tuberculosis-oxidative-stress": {
+        "title": "Mycobacterium tuberculosis and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Role of Oxidative Stress in the Pathology and Management of Human Tuberculosis",
+                "authors": "Shastri MD, Shukla SD, Chong WC, et al.",
+                "journal": "Oxid Med Cell Longev. 2018;2018:7695364",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6201333/"
+            },
+            {
+                "title": "Mycobacterium tuberculosis Induction of Heme Oxygenase-1 Expression Is Dependent on Oxidative Stress and Reflects Treatment Outcomes",
+                "authors": "Rockwood N, Costa DL, Amaral EP, et al.",
+                "journal": "Front Immunol. 2017;8:542",
+                "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2017.00542/full"
+            },
+            {
+                "title": "NAD hydrolysis by the tuberculosis necrotizing toxin induces lethal oxidative stress in macrophages",
+                "authors": "Pajuelo D, Gonzalez-Juarbe N, Tak U, et al.",
+                "journal": "Cell Microbiol. 2020;22(1):e13115",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925628/"
+            }
+        ]
+    },
+
+    "helicobacter-pylori-oxidative": {
+        "title": "Helicobacter pylori and Oxidative Stress",
+        "papers": [
+            {
+                "title": "Helicobacter pylori Infection Induces Oxidative Stress and Programmed Cell Death in Human Gastric Epithelial Cells",
+                "authors": "Ding SZ, Minohara Y, Fan XJ, et al.",
+                "journal": "Infect Immun. 2007;75(8):4030-4039",
+                "url": "https://journals.asm.org/doi/10.1128/iai.00172-07"
+            },
+            {
+                "title": "Oxidative Stress Resulting From Helicobacter pylori Infection Contributes to Gastric Carcinogenesis",
+                "authors": "Butcher LD, den Hartog G, Ernst PB, Crowe SE",
+                "journal": "Cell Mol Gastroenterol Hepatol. 2017;3(3):316-322",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5404027/"
+            },
+            {
+                "title": "Helicobacter pylori-Mediated Oxidative Stress and Gastric Diseases: A Review",
+                "authors": "Liu Y, Zhang J, Chen Y, et al.",
+                "journal": "Front Microbiol. 2022;13:811258",
+                "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.811258/full"
+            }
+        ]
+    },
+
+    "chronic-infections-immune-exhaustion": {
+        "title": "Chronic Infections and Immune Exhaustion",
+        "papers": [
+            {
+                "title": "Oxidative Stress Markers in Tuberculosis and HIV/TB Co-Infection",
+                "authors": "Kumar A, Singh KP, Bali P, et al.",
+                "journal": "J Clin Diagn Res. 2017;11(8):BC08-BC12",
+                "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5620754/"
+            },
+            {
+                "title": "Characterization and Modulation of Systemic Inflammatory Response to Exhaustive Exercise in Relation to Oxidative Stress",
+                "authors": "Suzuki K",
+                "journal": "Antioxidants. 2020;9(5):401",
+                "url": "https://www.mdpi.com/2076-3921/9/5/401"
+            },
+            {
+                "title": "Temporal changes of NF-κB signaling pathway genes in bacterial stimulated whole blood",
+                "authors": "Kumar S, Sharma A, Thaker R",
+                "journal": "Microb Pathog. 2020;147:104415",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0882401020307816"
+            }
+        ]
+    }
+}

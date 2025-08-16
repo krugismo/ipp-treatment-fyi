@@ -1,0 +1,121 @@
+{
+    "chronic-stress-duration": {
+        "title": "Chronic Psychological Stress Duration and Effects",
+        "papers": [
+            {
+                "title": "Accelerated telomere shortening in response to life stress",
+                "authors": "Epel ES, Blackburn EH, Lin J, et al.",
+                "journal": "Proc Natl Acad Sci USA. 2004;101(49):17312-17315",
+                "url": "https://doi.org/10.1073/pnas.0407162101"
+            },
+            {
+                "title": "Good stress, bad stress and oxidative stress: Insights from anticipatory cortisol reactivity",
+                "authors": "Aschbacher K, O'Donovan A, Wolkowitz OM, et al.",
+                "journal": "Psychoneuroendocrinology. 2013;38(9):1698-1708",
+                "url": "https://doi.org/10.1016/j.psyneuen.2013.02.004"
+            },
+            {
+                "title": "Chronic stress and the HPA axis",
+                "authors": "Guilliams TG, Edwards L",
+                "journal": "The Standard. 2010;9(2):1-12",
+                "url": "https://www.pointinstitute.org/wp-content/uploads/2012/10/standard_v_9.2_hpa_axis.pdf"
+            }
+        ]
+    },
+
+    "cortisol-nadph-oxidase": {
+        "title": "Cortisol Activation of NADPH Oxidase",
+        "papers": [
+            {
+                "title": "Oxidative Stress Induced by Cortisol in Human Platelets",
+                "authors": "Iannucci R, Damiani F, Simeone P, et al.",
+                "journal": "Int J Mol Sci. 2024;25(7):3776",
+                "url": "https://doi.org/10.3390/ijms25073776"
+            },
+            {
+                "title": "Activation of the hypothalamic-pituitary-adrenal stress axis induces cellular oxidative stress",
+                "authors": "Spiers JG, Chen HJ, Sernia C, Lavidis NA",
+                "journal": "Front Neurosci. 2015;8:456",
+                "url": "https://doi.org/10.3389/fnins.2014.00456"
+            },
+            {
+                "title": "NADPH oxidases and HIF1 promote cardiac dysfunction and pulmonary hypertension in response to glucocorticoid excess",
+                "authors": "Muzzi L, Cifarelli G, Stengl R, et al.",
+                "journal": "Cardiovasc Res. 2020;116(8):1447-1457",
+                "url": "https://doi.org/10.1093/cvr/cvz248"
+            }
+        ]
+    },
+
+    "ros-increase-threefold": {
+        "title": "ROS Generation Increase in Stress",
+        "papers": [
+            {
+                "title": "BSO-induced oxidative stress model showing 3-fold GSH reduction",
+                "authors": "Vaziri ND, Wang XQ, Oveisi F, Rad B",
+                "journal": "Hypertension. 2000;36(1):142-146",
+                "url": "https://doi.org/10.1161/01.HYP.36.1.142"
+            },
+            {
+                "title": "Effect of academic psychological stress in post-graduate students: The modulatory role of cortisol on superoxide release by neutrophils",
+                "authors": "Ignacchiti MDC, Sesti-Costa R, Marchi LF, et al.",
+                "journal": "Stress. 2011;14(3):290-300",
+                "url": "https://doi.org/10.3109/10253890.2010.545459"
+            },
+            {
+                "title": "Oxidative Stress is a Convincing Contributor to Idiopathic Chronic Fatigue",
+                "authors": "Fukuda S, Nojima J, Motoki Y, et al.",
+                "journal": "Sci Rep. 2016;6:29797",
+                "url": "https://doi.org/10.1038/srep29797"
+            }
+        ]
+    },
+
+    "hpa-axis-dysfunction": {
+        "title": "HPA Axis Dysregulation in Chronic Stress",
+        "papers": [
+            {
+                "title": "Regulation of the hypothalamic-pituitary-adrenocortical stress response",
+                "authors": "Herman JP, McKlveen JM, Ghosal S, et al.",
+                "journal": "Compr Physiol. 2016;6(2):603-621",
+                "url": "https://doi.org/10.1002/cphy.c150015"
+            },
+            {
+                "title": "A new model for the HPA axis explains dysregulation of stress hormones on the timescale of weeks",
+                "authors": "Tendolkar I, Donner J, Alon U",
+                "journal": "Mol Syst Biol. 2020;16(7):e9510",
+                "url": "https://doi.org/10.15252/msb.20209510"
+            },
+            {
+                "title": "Chronic Stress-Associated Depressive Disorders: The Impact of HPA Axis Dysregulation and Neuroinflammation on the Hippocampus",
+                "authors": "Sukhram SD, Yilmaz G, Rana T",
+                "journal": "Int J Mol Sci. 2025;26(7):2940",
+                "url": "https://doi.org/10.3390/ijms26072940"
+            }
+        ]
+    },
+
+    "nadph-oxidase-p47phox": {
+        "title": "NADPH Oxidase p47phox Subunit in Stress",
+        "papers": [
+            {
+                "title": "Combating oxidative stress in vascular disease: NADPH oxidases as therapeutic targets",
+                "authors": "Drummond GR, Selemidis S, Griendling KK, Sobey CG",
+                "journal": "Nat Rev Drug Discov. 2011;10(6):453-471",
+                "url": "https://doi.org/10.1038/nrd3403"
+            },
+            {
+                "title": "NADPH Oxidases: From Molecular Mechanisms to Current Inhibitors",
+                "authors": "Dao VT, Elbatreek MH, Fuchß T, et al.",
+                "journal": "J Med Chem. 2023;66(16):11045-11079",
+                "url": "https://doi.org/10.1021/acs.jmedchem.3c00770"
+            },
+            {
+                "title": "NAD(P)H Oxidase and Vascular Function",
+                "authors": "Griendling KK, Sorescu D, Ushio-Fukai M",
+                "journal": "Circ Res. 2000;86(5):494-501",
+                "url": "https://doi.org/10.1161/01.RES.86.5.494"
+            }
+        ]
+    }
+}

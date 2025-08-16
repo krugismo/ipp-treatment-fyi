@@ -1,0 +1,71 @@
+{
+    "mmp1-mmp2-decrease": {
+      "title": "MMP-1 and MMP-2 Downregulation",
+      "papers": [
+        {
+          "title": "Differential calcium independent regulation of matrix metalloproteinases and tissue inhibitors of matrix metalloproteinases by interleukin-1beta and transforming growth factor-beta in Peyronie's plaque fibroblasts",
+          "authors": "Del Carlo M, Cole AA, Levine LA",
+          "journal": "J Urol. 2008;179(6):2447-2455",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18433786"
+        },
+        {
+          "title": "Matrix Metalloproteinases and Tissue Inhibitors of Metalloproteinases: Structure, Function, and Biochemistry",
+          "authors": "Visse R, Nagase H",
+          "journal": "Circ Res. 2003;92(8):827-839",
+          "url": "https://www.ahajournals.org/doi/10.1161/01.res.0000070112.80711.3d"
+        },
+        {
+          "title": "Unveiling the molecular Hallmarks of Peyronie's disease: a comprehensive narrative review",
+          "authors": "Şahin A, Babayev H, Cirigliano L, et al.",
+          "journal": "Int J Impot Res. 2024;36(3):287-299",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38454161/"
+        }
+      ]
+    },
+    "timp1-timp2-increase": {
+      "title": "TIMP-1 and TIMP-2 Upregulation", 
+      "papers": [
+        {
+          "title": "The Roles of Matrix Metalloproteinases and Their Inhibitors in Human Diseases",
+          "authors": "Cabral-Pacheco GA, Garza-Veloz I, et al.",
+          "journal": "Int J Mol Sci. 2020;21(24):9739",
+          "url": "https://www.mdpi.com/1422-0067/21/24/9739"
+        },
+        {
+          "title": "Molecular Mechanisms and Risk Factors Related to the Pathogenesis of Peyronie's Disease",
+          "authors": "Kang DH, Yin GN, Ryu JK, et al.",
+          "journal": "Int J Mol Sci. 2023;24(12):10133",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37373277/"
+        },
+        {
+          "title": "Matrix metalloproteinases and the regulation of tissue remodeling",
+          "authors": "Page-McCaw A, Ewald AJ, Werb Z",
+          "journal": "Nat Rev Mol Cell Biol. 2007;8(3):221-233",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7767220/"
+        }
+      ]
+    },
+    "reduced-degradation-collagen-accumulation": {
+      "title": "Reduced Matrix Degradation and Net Collagen Accumulation",
+      "papers": [
+        {
+          "title": "Matrix Metalloproteinases: From Molecular Mechanisms to Physiology, Pathophysiology, and Pharmacology",
+          "authors": "Raeeszadeh-Sarmazdeh M, Do LD, Hritz BG",
+          "journal": "Pharmacol Rev. 2022;74(3):712-768",
+          "url": "https://pharmrev.aspetjournals.org/article/S0031-6997(24)00723-3/fulltext"
+        },
+        {
+          "title": "Structure and function of matrix metalloproteinases and TIMPs",
+          "authors": "Nagase H, Visse R, Murphy G",
+          "journal": "Cardiovasc Res. 2006;69(3):562-573",
+          "url": "https://academic.oup.com/cardiovascres/article/69/3/562/272258"
+        },
+        {
+          "title": "Tissue inhibitors of metalloproteinases: evolution, structure and function",
+          "authors": "Brew K, Nagase H",
+          "journal": "Biochim Biophys Acta. 2010;1803(1):55-71",
+          "url": "https://en.wikipedia.org/wiki/Matrix_metalloproteinase"
+        }
+      ]
+    }
+  }

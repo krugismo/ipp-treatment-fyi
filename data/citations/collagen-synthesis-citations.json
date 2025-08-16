@@ -1,0 +1,71 @@
+{
+    "col1a1-col3a1-upregulation": {
+      "title": "COL1A1 and COL3A1 Gene Expression",
+      "papers": [
+        {
+          "title": "Glimpses into the molecular pathogenesis of Peyronie's disease",
+          "authors": "de Vries RBM, Smeets MJGH, et al.",
+          "journal": "Aging Male. 2019;22(4):251-259",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/13685538.2019.1643311"
+        },
+        {
+          "title": "Isolation and Characterization of Collagen in Peyronie's Disease",
+          "authors": "Somers KD, Dawson DM",
+          "journal": "J Urol. 1982;127(1):47-49",
+          "url": "https://www.auajournals.org/doi/10.1016/S0022-5347(17)40920-7"
+        },
+        {
+          "title": "New insights into the pathogenesis of Peyronie's disease: A narrative review",
+          "authors": "Milenkovic U, Campbell J, Roussel E, Albersen M",
+          "journal": "Asian J Urol. 2021;8(1):15-26",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2095882X20300608"
+        }
+      ]
+    },
+    "hydroxyproline-increase": {
+      "title": "Hydroxyproline as Fibrosis Marker",
+      "papers": [
+        {
+          "title": "Targeted proteomic approach for quantification of collagen type I and type III",
+          "authors": "Shahbazian N, Mak J, Moore E, et al.",
+          "journal": "Sci Rep. 2024;14:18377",
+          "url": "https://www.nature.com/articles/s41598-024-68377-9"
+        },
+        {
+          "title": "The Relationship between Androgens, Regulators of Collagen Metabolism, and Peyronie's Disease",
+          "authors": "Gonzalez-Cadavid NF, Rajfer J",
+          "journal": "J Sex Med. 2016;13(1):27-34",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1743609515328113"
+        },
+        {
+          "title": "Biochemical analysis of collagen and elastin content in Peyronie's plaque",
+          "authors": "Ignat'eva NY, Danilov NA, et al.",
+          "journal": "Connect Tissue Res. 2007;48(2):85-91",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11294326/"
+        }
+      ]
+    },
+    "type-i-iii-imbalance-ecm": {
+      "title": "Type I/III Collagen Imbalance and ECM Accumulation",
+      "papers": [
+        {
+          "title": "Role of collagenase clostridium histolyticum in Peyronie's disease",
+          "authors": "Gelbard MK, Goldstein I, Hellstrom WJ, et al.",
+          "journal": "Ther Adv Urol. 2015;7(4):167-175",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4598203/"
+        },
+        {
+          "title": "Quantitative estimation of COL1A1 and COL3A1 ratio in Peyronie's plaques",
+          "authors": "Del Carlo M, Cole AA, Levine LA",
+          "journal": "J Urol. 2008;179(6):2447-2455",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11294326/"
+        },
+        {
+          "title": "Peyronie's disease: molecular pathophysiology and therapeutic targets",
+          "authors": "Gonzalez-Cadavid NF, Rajfer J",
+          "journal": "Int J Impot Res. 2002;14(5):361-369",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-11701-5_6"
+        }
+      ]
+    }
+  }

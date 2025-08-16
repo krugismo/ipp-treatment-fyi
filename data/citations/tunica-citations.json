@@ -1,0 +1,87 @@
+{
+    "tunica-plaque-formation": {
+      "title": "Plaque Formation in Tunica Albuginea",
+      "papers": [
+        {
+          "title": "Immunohistochemical characterization of Peyronie's disease plaque",
+          "authors": "Magee TR, Qian A, Rajfer J, et al.",
+          "journal": "Urology. 2002;59(4):570-574",
+          "url": "https://www.goldjournal.net/article/S0090-4295(01)01606-5/fulltext"
+        },
+        {
+          "title": "Histological analysis of the Peyronie's disease plaque calcification and ossification",
+          "authors": "Chung E, De Young L, Solomon M, Brock GB",
+          "journal": "Int J Impot Res. 2015;27(4):127-132",
+          "url": "https://www.nature.com/articles/ijir201520"
+        }
+      ]
+    },
+    "tunica-thickening": {
+      "title": "Tunica Albuginea Thickening and Fibrosis",
+      "papers": [
+        {
+          "title": "Tunica albuginea structural alterations in aging and Peyronie's disease: a comparative histological and ultrastructural study",
+          "authors": "Gentile V, Modesti A, La Pera G, et al.",
+          "journal": "Br J Urol. 1996;78(6):970-976",
+          "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1464-410X.1996.02137.x"
+        },
+        {
+          "title": "The tunica albuginea after treatment of penile fibromatosis: histopathological and ultrastructural modifications",
+          "authors": "Mirone V, Imbimbo C, Palmieri A, et al.",
+          "journal": "Br J Urol. 1999;83(7):751-754",
+          "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1464-410x.1999.00017.x"
+        }
+      ]
+    },
+    "calcification-process": {
+      "title": "Calcification in Peyronie's Disease",
+      "papers": [
+        {
+          "title": "Calcified Peyronie's plaques: Verapamil injection therapy and surgical intervention outcomes",
+          "authors": "Levine LA, Estrada CR, Shou W, Cole A",
+          "journal": "J Sex Med. 2013;10(9):2344-2351",
+          "url": "https://academic.oup.com/jsm/article/10/9/2344/6940705"
+        },
+        {
+          "title": "Penile calcification in Peyronie's disease: a traumatic or inflammatory condition?",
+          "authors": "El-Sakka AI, Salabas E, Dinçer M, Kadioglu A",
+          "journal": "Asian J Androl. 2013;15(1):138-141",
+          "url": "https://www.ajandrology.com/article.asp?issn=1008-682X;year=2013;volume=15;issue=1;spage=138;epage=141;aulast=El-Sakka"
+        }
+      ]
+    },
+    "curvature-development": {
+      "title": "Penile Curvature from Tunica Fibrosis",
+      "papers": [
+        {
+          "title": "Biomechanical aspects of Peyronie's disease in development stages and following reconstructive surgery",
+          "authors": "Gefen A, Chen J, Elad D",
+          "journal": "Int J Impot Res. 2002;14(5):389-396",
+          "url": "https://www.nature.com/articles/3900865"
+        },
+        {
+          "title": "Objective measurement of the effectiveness of collagenase Clostridium histolyticum in the treatment of Peyronie's disease",
+          "authors": "Yafi FA, Sangkum P, McCaslin IR, Hellstrom WJ",
+          "journal": "BJU Int. 2015;116(4):650-656",
+          "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.13010"
+        }
+      ]
+    },
+    "inflammatory-infiltration": {
+      "title": "Inflammatory Changes in Tunica Albuginea",
+      "papers": [
+        {
+          "title": "Inflammatory mechanisms and oxidative stress in Peyronie's disease: therapeutic 'rationale' and related emerging treatment strategies",
+          "authors": "Paulis G, Romano G, Paulis A",
+          "journal": "Inflamm Allergy Drug Targets. 2015;14(2):81-97",
+          "url": "https://www.eurekaselect.com/article/72234"
+        },
+        {
+          "title": "Transforming growth factor-β1 (TGF-β1) in Peyronie's disease: a prospective study",
+          "authors": "El-Sakka AI, Hassoba HM, Pillarisetty RJ, et al.",
+          "journal": "J Urol. 1997;158(4):1391-1394",
+          "url": "https://www.auajournals.org/doi/10.1016/S0022-5347%2801%2964223-X"
+        }
+      ]
+    }
+  }

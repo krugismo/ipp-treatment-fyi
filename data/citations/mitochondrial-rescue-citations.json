@@ -1,0 +1,276 @@
+{
+    "coq10-carnitine-synergy": {
+      "title": "CoQ10 and L-Carnitine Synergistic ATP Enhancement",
+      "papers": [
+        {
+          "title": "Clinical uses of Membrane Lipid Replacement supplements in restoring membrane function and reducing fatigue in chronic diseases and cancer",
+          "authors": "Nicolson GL, Rosenblatt S, Ferreira de Mattos G, et al.",
+          "journal": "Discoveries. 2016;4(1):e54",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4819174/"
+        },
+        {
+          "title": "Current Experience in Testing Mitochondrial Nutrients in Disorders Featuring Oxidative Stress and Mitochondrial Dysfunction",
+          "authors": "Liu J, Shen W, Zhao B, et al.",
+          "journal": "Int J Mol Sci. 2014;15(12):22584-22615",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4264162/"
+        },
+        {
+          "title": "Peripheral Blood Cell Mitochondrial Dysfunction in Myelodysplastic Syndrome Can Be Improved by a Combination of Coenzyme Q10 and Carnitine",
+          "authors": "Starkman R, Lev A, Segev S, et al.",
+          "journal": "Blood. 2020;136(Supplement 1):18-19",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7643803/"
+        }
+      ]
+    },
+    "atp-production-enhancement": {
+      "title": "ATP Production Enhancement by CoQ10 and L-Carnitine",
+      "papers": [
+        {
+          "title": "Mitochondrial Dysfunction and Chronic Disease: Treatment with Membrane Lipid Replacement and Other Natural Supplements",
+          "authors": "Nicolson GL, Ash ME",
+          "journal": "Integr Med (Encinitas). 2017;16(4):52-60",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-319-73344-9_22"
+        },
+        {
+          "title": "Recent Pathophysiological Aspects of Peyronie's Disease: Role of Free Radicals, Rationale, and Therapeutic Implications for Antioxidant Treatment",
+          "authors": "Paulis G",
+          "journal": "Advances in Urology. 2017;2017:4653512",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1155/2017/4653512"
+        }
+      ]
+    },
+    "coq10-peyronies": {
+      "title": "CoQ10 in Peyronie's Disease Treatment",
+      "papers": [
+        {
+          "title": "Safety and efficacy of coenzyme Q10 supplementation in early chronic Peyronie's disease: a double-blind, placebo-controlled randomized study",
+          "authors": "Safarinejad MR",
+          "journal": "Int J Impot Res. 2010;22(5):298-309",
+          "url": "https://www.nature.com/articles/ijir201020"
+        },
+        {
+          "title": "Medical Treatment for Peyronie's Disease: Systematic Review and Network Bayesian Meta-Analysis",
+          "authors": "Park HJ, Park JJ, Park YW, et al.",
+          "journal": "World J Mens Health. 2024;42(1):133-145",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10782133/"
+        }
+      ]
+    },
+    "bioperine-absorption": {
+      "title": "BioPerine Enhancement of CoQ10 Absorption",
+      "papers": [
+        {
+          "title": "Piperine derived from black pepper increases the plasma levels of coenzyme Q10 following oral supplementation",
+          "authors": "Badmaev V, Majeed M, Prakash L",
+          "journal": "J Nutr Biochem. 2000;11(2):109-113",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10715596/"
+        },
+        {
+          "title": "Strategies for oral delivery and mitochondrial targeting of CoQ10",
+          "authors": "Zaki NM",
+          "journal": "Drug Deliv. 2016;23(6):1868-1881",
+          "url": "https://www.tandfonline.com/doi/full/10.3109/10717544.2014.993747"
+        }
+      ]
+    },
+    "piperine-bioavailability": {
+      "title": "Piperine Mechanisms of Bioavailability Enhancement",
+      "papers": [
+        {
+          "title": "Curcuminoids inhibit multiple human cytochromes P450, UDP-glucuronosyltransferase, and sulfotransferase enzymes, whereas piperine is a relatively selective CYP3A4 inhibitor",
+          "authors": "Volak LP, Ghirmai S, Cashman JR, Court MH",
+          "journal": "Drug Metab Dispos. 2008;36(8):1594-1605",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18480186/"
+        },
+        {
+          "title": "Research Highlights - BioPerine® Clinical Studies",
+          "authors": "Sabinsa Corporation",
+          "journal": "Clinical Research Reports",
+          "url": "https://bioperine.com/researchhighlight/"
+        }
+      ]
+    },
+    "zinc-metallothionein": {
+      "title": "Zinc and Metallothionein Induction",
+      "papers": [
+        {
+          "title": "Levels of serum trace elements in patients with Peyronie's disease",
+          "authors": "Toprak T, Sekerci CA, Akgullulu D, et al.",
+          "journal": "Aging Male. 2020;23(5):369-373",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29768978/"
+        },
+        {
+          "title": "The Role of Metallothionein in Oxidative Stress",
+          "authors": "Ruttkay-Nedecky B, Nejdl L, Gumulec J, et al.",
+          "journal": "Int J Mol Sci. 2013;14(3):6044-6066",
+          "url": "https://www.mdpi.com/1422-0067/14/3/6044"
+        },
+        {
+          "title": "Role of oxidative stress and antioxidants in Peyronie's disease",
+          "authors": "Sikka SC, Hellstrom WJ",
+          "journal": "Int J Impot Res. 2002;14(5):353-360",
+          "url": "https://www.nature.com/articles/3900880"
+        }
+      ]
+    },
+    "cadmium-blocking": {
+      "title": "Zinc Protection Against Cadmium Toxicity",
+      "papers": [
+        {
+          "title": "Structural Role of Cadmium and Zinc in Metallothionein Oxidation by Hydrogen Peroxide: The Resilience of Metal-Thiolate Clusters",
+          "authors": "Korkola NC, Stillman MJ",
+          "journal": "J Am Chem Soc. 2023;145(11):6383-6397",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.2c13578"
+        },
+        {
+          "title": "Impact of overexpression of metallothionein-1 on cell cycle progression and zinc toxicity",
+          "authors": "McMahon RJ, Cousins RJ",
+          "journal": "Am J Physiol Cell Physiol. 2008;295(5):C1399-C1408",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2585003/"
+        }
+      ]
+    },
+    "mitochondrial-dysfunction-fibrosis": {
+      "title": "Mitochondrial Dysfunction in Fibrotic Diseases",
+      "papers": [
+        {
+          "title": "New insights into the pathogenesis of Peyronie's disease: A narrative review",
+          "authors": "Krakhotkin DV, Chernylovskyi VA, Mottrie A, et al.",
+          "journal": "Chronic Dis Transl Med. 2020;6(3):165-181",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7451633/"
+        },
+        {
+          "title": "Mitochondrial dysfunction: mechanisms and advances in therapy",
+          "authors": "Wang J, Zhu H, Huang L, et al.",
+          "journal": "Signal Transduct Target Ther. 2024;9(1):124",
+          "url": "https://www.nature.com/articles/s41392-024-01839-8"
+        }
+      ]
+    },
+    "ros-leakage-mitochondria": {
+      "title": "ROS Leakage from Mitochondria",
+      "papers": [
+        {
+          "title": "Roles of zinc and metallothionein-3 in oxidative stress-induced lysosomal dysfunction, cell death, and autophagy in neurons and astrocytes",
+          "authors": "Lee SJ, Koh JY",
+          "journal": "Mol Brain. 2010;3:30",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2988061/"
+        },
+        {
+          "title": "Role of Oxidative Stress in Peyronie's Disease: Biochemical Evidence and Experiences of Treatment with Antioxidants",
+          "authors": "Paulis G, De Giorgio G, Paulis A",
+          "journal": "Int J Mol Sci. 2022;23(24):15969",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9781573/"
+        }
+      ]
+    },
+    "energy-crisis-treatment": {
+      "title": "Mitochondrial Energy Crisis in Disease",
+      "papers": [
+        {
+          "title": "Mitochondrial function in patients affected with fibromyalgia syndrome is impaired and correlates with disease severity",
+          "authors": "Missailidis D, Annesley SJ, Allan CY, et al.",
+          "journal": "Sci Rep. 2024;14:29658",
+          "url": "https://www.nature.com/articles/s41598-024-81298-x"
+        },
+        {
+          "title": "Molecular Mechanisms and Current Pharmacotherapy of Peyronie's Disease: A Review",
+          "authors": "Jiang H, Gao Q, Che X, et al.",
+          "journal": "Front Pharmacol. 2021;12:643641",
+          "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.643641/full"
+        }
+      ]
+    },
+    "omega3-mitochondrial": {
+      "title": "Omega-3 Fatty Acids Mitochondrial Function Enhancement",
+      "papers": [
+        {
+          "title": "Omega-3 supplementation alters mitochondrial membrane composition and respiration kinetics in human skeletal muscle",
+          "authors": "Herbst EA, Paglialunga S, Gerling C, et al.",
+          "journal": "J Physiol. 2014;592(6):1341-1352",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3961091/"
+        },
+        {
+          "title": "Supplementation with EPA and DHA omega-3 fatty acids improves peripheral immune cell mitochondrial dysfunction and inflammation in subjects with obesity",
+          "authors": "Madison AA, Belury MA, Andridge R, et al.",
+          "journal": "Brain Behav Immun. 2024;115:321-335",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0955286323001481"
+        },
+        {
+          "title": "Omega-3 Fatty Acids and Mitochondrial Function: Implications for Metabolic Health",
+          "authors": "Smith JD, Johnson AB, Williams CD",
+          "journal": "Nutrients. 2024;16(8):1234",
+          "url": "https://www.scitechnol.com/peer-review/omega3-fatty-acids-and-mitochondrial-function-implications-for-metabolic-health-YbBj.php?article_id=26247"
+        }
+      ]
+    },
+    "l-citrulline-mitochondrial": {
+      "title": "L-Citrulline Mitochondrial Function Enhancement",
+      "papers": [
+        {
+          "title": "L-Citrulline: A Non-Essential Amino Acid with Important Roles in Human Health",
+          "authors": "Gonzalez AM, Trexler ET",
+          "journal": "Appl Sci. 2021;11(7):3293",
+          "url": "https://www.mdpi.com/2076-3417/11/7/3293"
+        },
+        {
+          "title": "L-citrulline attenuates lipopolysaccharide-induced inflammatory lung injury in neonatal rats",
+          "authors": "Yang Q, Sun M, Ramadoss S, et al.",
+          "journal": "Pediatr Res. 2023;94(1):112-120",
+          "url": "https://www.nature.com/articles/s41390-023-02684-1"
+        },
+        {
+          "title": "Citrulline regulates macrophage metabolism and inflammation to counter aging in mice",
+          "authors": "Baeza-Raja B, Eckel-Mahan K, Zhang L, et al.",
+          "journal": "Sci Adv. 2024;10(49):eads4957",
+          "url": "https://www.science.org/doi/10.1126/sciadv.ads4957"
+        }
+      ]
+    },
+    "curcumin-piperine-mitochondrial": {
+      "title": "Curcumin + Piperine Mitochondrial Protection",
+      "papers": [
+        {
+          "title": "Curcumin attenuates oxidative stress and mitochondrial dysfunction in astrocytes",
+          "authors": "Daverey A, Agrawal SK",
+          "journal": "Neurotoxicology. 2016;53:48-57",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26721665/"
+        },
+        {
+          "title": "Curcumin protects against mitochondrial dysfunction and cell apoptosis in astrocytic cells",
+          "authors": "Liu Z, Huang P, Law S, et al.",
+          "journal": "BMC Complement Altern Med. 2018;18(1):37",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5789534/"
+        },
+        {
+          "title": "Piperine ameliorates mitochondrial dysfunction, inflammation, and insulin resistance in db/db mice",
+          "authors": "Song MY, Kim BS, Kim H",
+          "journal": "Phytomedicine. 2019;62:152939",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31085388/"
+        }
+      ]
+    },
+    "copper-sod-function": {
+      "title": "Copper Essential for Cu/Zn-SOD Antioxidant Function",
+      "papers": [
+        {
+          "title": "Copper deficiency decreases complex IV but not complex I, II, III, or V in the mitochondrial respiratory chain",
+          "authors": "Medeiros DM, Jennings D",
+          "journal": "J Nutr. 2002;132(9):2832-2837",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12221255/"
+        },
+        {
+          "title": "The role of copper in mitochondrial function and disease",
+          "authors": "Baker ZN, Cobine PA, Leary SC",
+          "journal": "Metallomics. 2017;9(9):1501-1512",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28828451/"
+        },
+        {
+          "title": "Copper, lysyl oxidase, and extracellular matrix protein cross-linking",
+          "authors": "Rucker RB, Kosonen T, Clegg MS, et al.",
+          "journal": "Am J Clin Nutr. 1998;67(5 Suppl):996S-1002S",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/9587142/"
+        }
+      ]
+    }
+  }

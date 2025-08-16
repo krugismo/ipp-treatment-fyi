@@ -1,0 +1,122 @@
+{
+    "genetic-oxidative-vulnerability": {
+        "title": "Genetic Polymorphisms Affecting Oxidative Stress Vulnerability",
+        "description": "Genetic variants that impair antioxidant defense systems and increase susceptibility to oxidative damage",
+        "papers": [
+            {
+                "title": "Vulnerability of white matter tracts and cognition to the SOD2 polymorphism: A preliminary study of antioxidant defense genes in brain aging",
+                "authors": "Salminen LE, Schofield PR, Pierce KD, et al.",
+                "journal": "Behav Brain Res. 2017;329:111-119",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/28457881/"
+            },
+            {
+                "title": "Association of Nrf2, SOD2 and GPX1 Polymorphisms with Biomarkers of Oxidative Distress and Survival in End-Stage Renal Disease Patients",
+                "authors": "Suvakov S, Jerotic D, Damjanovic T, et al.",
+                "journal": "Toxins (Basel). 2019;11(7):431",
+                "url": "https://www.mdpi.com/2072-6651/11/7/431"
+            },
+            {
+                "title": "Variability in oxidative stress-related genes (SOD2, CAT, GPX1, GSTP1, NOS3, NFE2L2, and UCP2) and susceptibility to migraine clinical phenotypes and features",
+                "authors": "Liampas I, Siokas V, Mentis AFA, et al.",
+                "journal": "Front Neurol. 2023;13:1054333",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9868718/"
+            }
+        ]
+    },
+
+    "sod2-rs4880-tt-genotype": {
+        "title": "SOD2 Val16Ala (rs4880) - Mitochondrial Dysfunction",
+        "papers": [
+            {
+                "title": "Genetic polymorphisms of antioxidant enzymes CAT and SOD affect the outcome of clinical, biochemical, and anthropometric variables in people with obesity under a dietary intervention",
+                "authors": "Hernández-Guerrero C, Hernández-Chávez P, Romo-Palafox I, et al.",
+                "journal": "Genes Nutr. 2018;13:1",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5759352/"
+            },
+            {
+                "title": "Variation of the genes encoding antioxidant enzymes SOD2 (rs4880), GPX1 (rs1050450), and CAT (rs1001179) and susceptibility to male infertility",
+                "authors": "Fallah F, Colagar AH, Saleh HA, Ranjbar M",
+                "journal": "Environ Sci Pollut Res Int. 2023;30(36):86412-86424",
+                "url": "https://link.springer.com/article/10.1007/s11356-023-28474-0"
+            },
+            {
+                "title": "Polymorphisms of Antioxidant Enzymes SOD2 (rs4880) and GPX1 (rs1050450) Are Associated with Bladder Cancer Risk or Its Aggressiveness",
+                "authors": "Nikic P, Dragicevic D, Jerotic D, et al.",
+                "journal": "Medicina (Kaunas). 2023;59(1):131",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/36676755/"
+            }
+        ]
+    },
+
+    "gstm1-gstt1-null": {
+        "title": "GSTM1/GSTT1 Null Genotypes - Impaired Detoxification",
+        "papers": [
+            {
+                "title": "GSTM1 and GSTT1 null polymorphisms and male infertility risk: an updated meta-analysis encompassing 6934 subjects",
+                "authors": "Wu W, Lu J, Tang Q, et al.",
+                "journal": "Sci Rep. 2013;3:2258",
+                "url": "https://www.nature.com/articles/srep02258"
+            },
+            {
+                "title": "Null genotypes of GSTM1 and GSTT1 contribute to increased risk of diabetes mellitus: A meta-analysis",
+                "authors": "Zhang J, Liu H, Yan H, Huang G, Wang B",
+                "journal": "Gene. 2013;518(2):405-411",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378111912016459"
+            },
+            {
+                "title": "Association of GSTM1 and GSTT1 gene polymorphisms with COVID-19 susceptibility and its outcome",
+                "authors": "Abbas M, Verma S, Verma S, et al.",
+                "journal": "J Med Virol. 2021;93(9):5446-5451",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33990973/"
+            }
+        ]
+    },
+
+    "gpx1-rs1050450-leu": {
+        "title": "GPX1 Pro198Leu (rs1050450) - Selenium Metabolism Dysfunction",
+        "papers": [
+            {
+                "title": "Genetic variants of GPX1 and SOD2 and breast cancer risk at the Ontario site of the Breast Cancer Family Registry",
+                "authors": "Knight JA, Onay UV, Wells S, et al.",
+                "journal": "Cancer Epidemiol Biomarkers Prev. 2004;13(1):146-149",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/14744747/"
+            },
+            {
+                "title": "Association of SOD2, GPX1, CAT, and TNF genetic polymorphisms with oxidative stress, neurochemistry, psychopathology, and extrapyramidal symptoms in schizophrenia",
+                "authors": "Bošković M, Vovk T, Kores Plesničar B, Grabnar I",
+                "journal": "Neurochem Res. 2013;38(2):433-442",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/23212700/"
+            },
+            {
+                "title": "Common Polymorphisms in Antioxidant Genes are Associated with Diabetic Nephropathy in Type 2 Diabetes Patients",
+                "authors": "Mohammedi K, Patente TA, Bellili-Muñoz N, et al.",
+                "journal": "Pers Med. 2015;12(3):187-196",
+                "url": "https://www.tandfonline.com/doi/full/10.2217/pme.14.86"
+            }
+        ]
+    },
+
+    "cat-rs1001179-tt": {
+        "title": "CAT -262C>T (rs1001179) - Hydrogen Peroxide Accumulation",
+        "papers": [
+            {
+                "title": "Genetic polymorphisms of antioxidant enzymes CAT and SOD affect the outcome of clinical, biochemical, and anthropometric variables in people with obesity under a dietary intervention",
+                "authors": "Hernández-Guerrero C, Hernández-Chávez P, Romo-Palafox I, et al.",
+                "journal": "Genes Nutr. 2018;13:1",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5759352/"
+            },
+            {
+                "title": "The Role of Oxidative Stress-Related Gene Polymorphisms (SOD2, GPX1) in Severe Early Childhood Caries (S-ECC)",
+                "authors": "Balian A, Negoita MH, Frăsinariu OE, et al.",
+                "journal": "Medicina (Kaunas). 2025;61(3):432",
+                "url": "https://www.mdpi.com/1648-9144/61/3/432"
+            },
+            {
+                "title": "Genetic variations of three important antioxidative enzymes SOD2, CAT, and GPX1 in nonalcoholic steatohepatitis",
+                "authors": "Huang YS, Chang TE, Perng CL, Huang YH",
+                "journal": "J Chin Med Assoc. 2021;84(1):14-18",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/33009206/"
+            }
+        ]
+    }
+}
